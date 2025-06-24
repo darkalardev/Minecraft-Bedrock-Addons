@@ -1,0 +1,573 @@
+{
+  "resource_pack_name": "Windmill",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "windmill_white": {
+      "textures": [
+        "textures/items/windmill_white_on"
+      ]
+     },
+     "windmill_yellow": {
+      "textures": [
+        "textures/items/windmill_yellow_on"
+      ]
+     },
+     "windmill_silver": {
+      "textures": [
+        "textures/items/windmill_silver_on"
+      ]
+     },
+     "windmill_red": {
+      "textures": [
+        "textures/items/windmill_red_on"
+      ]
+     },
+     "windmill_purple": {
+      "textures": [
+        "textures/items/windmill_purple_on"
+      ]
+     },
+     "windmill_pink": {
+      "textures": [
+        "textures/items/windmill_pink_on"
+      ]
+     },
+     "windmill_orange": {
+      "textures": [
+        "textures/items/windmill_orange_on"
+      ]
+     },
+     "windmill_magenta": {
+      "textures": [
+        "textures/items/windmill_magenta_on"
+      ]
+     },
+     "windmill_lime": {
+      "textures": [
+        "textures/items/windmill_lime_on"
+      ]
+     },
+     "windmill_light_blue": {
+      "textures": [
+        "textures/items/windmill_light_blue_on"
+      ]
+     },
+     "windmill_green": {
+      "textures": [
+        "textures/items/windmill_green_on"
+      ]
+     },
+     "windmill_gray": {
+      "textures": [
+        "textures/items/windmill_gray_on"
+      ]
+     },
+     "windmill_blue": {
+      "textures": [
+        "textures/items/windmill_blue_on"
+      ]
+     },
+     "windmill_black": {
+      "textures": [
+        "textures/items/windmill_black_on"
+      ]
+     },
+     "windmill_cyan": {
+      "textures": [
+        "textures/items/windmill_cyan_on"
+      ]
+     },
+     "windmill_brown": {
+      "textures": [
+        "textures/items/windmill_brown_on"
+      ]
+     },
+
+     "windmill2_white": {
+      "textures": [
+        "textures/items/windmill2_white_on"
+      ]
+     },
+     "windmill2_yellow": {
+      "textures": [
+        "textures/items/windmill2_yellow_on"
+      ]
+     },
+     "windmill2_silver": {
+      "textures": [
+        "textures/items/windmill2_silver_on"
+      ]
+     },
+     "windmill2_red": {
+      "textures": [
+        "textures/items/windmill2_red_on"
+      ]
+     },
+     "windmill2_purple": {
+      "textures": [
+        "textures/items/windmill2_purple_on"
+      ]
+     },
+     "windmill2_pink": {
+      "textures": [
+        "textures/items/windmill2_pink_on"
+      ]
+     },
+     "windmill2_orange": {
+      "textures": [
+        "textures/items/windmill2_orange_on"
+      ]
+     },
+     "windmill2_magenta": {
+      "textures": [
+        "textures/items/windmill2_magenta_on"
+      ]
+     },
+     "windmill2_lime": {
+      "textures": [
+        "textures/items/windmill2_lime_on"
+      ]
+     },
+     "windmill2_light_blue": {
+      "textures": [
+        "textures/items/windmill2_light_blue_on"
+      ]
+     },
+     "windmill2_green": {
+      "textures": [
+        "textures/items/windmill2_green_on"
+      ]
+     },
+     "windmill2_gray": {
+      "textures": [
+        "textures/items/windmill2_gray_on"
+      ]
+     },
+     "windmill2_blue": {
+      "textures": [
+        "textures/items/windmill2_blue_on"
+      ]
+     },
+     "windmill2_black": {
+      "textures": [
+        "textures/items/windmill2_black_on"
+      ]
+     },
+     "windmill2_cyan": {
+      "textures": [
+        "textures/items/windmill2_cyan_on"
+      ]
+     },
+     "windmill2_brown": {
+      "textures": [
+        "textures/items/windmill2_brown_on"
+      ]
+     },
+     "windmill3_white": {
+      "textures": [
+        "textures/items/windmill3_white_on"
+      ]
+     },
+     "windmill3_yellow": {
+      "textures": [
+        "textures/items/windmill3_yellow_on"
+      ]
+     },
+     "windmill3_silver": {
+      "textures": [
+        "textures/items/windmill3_silver_on"
+      ]
+     },
+     "windmill3_red": {
+      "textures": [
+        "textures/items/windmill3_red_on"
+      ]
+     },
+     "windmill3_purple": {
+      "textures": [
+        "textures/items/windmill3_purple_on"
+      ]
+     },
+     "windmill3_pink": {
+      "textures": [
+        "textures/items/windmill3_pink_on"
+      ]
+     },
+     "windmill3_orange": {
+      "textures": [
+        "textures/items/windmill3_orange_on"
+      ]
+     },
+     "windmill3_magenta": {
+      "textures": [
+        "textures/items/windmill3_magenta_on"
+      ]
+     },
+     "windmill3_lime": {
+      "textures": [
+        "textures/items/windmill3_lime_on"
+      ]
+     },
+     "windmill3_light_blue": {
+      "textures": [
+        "textures/items/windmill3_light_blue_on"
+      ]
+     },
+     "windmill3_green": {
+      "textures": [
+        "textures/items/windmill3_green_on"
+      ]
+     },
+     "windmill3_gray": {
+      "textures": [
+        "textures/items/windmill3_gray_on"
+      ]
+     },
+     "windmill3_blue": {
+      "textures": [
+        "textures/items/windmill3_blue_on"
+      ]
+     },
+     "windmill3_black": {
+      "textures": [
+        "textures/items/windmill3_black_on"
+      ]
+     },
+     "windmill3_cyan": {
+      "textures": [
+        "textures/items/windmill3_cyan_on"
+      ]
+     },
+     "windmill3_brown": {
+      "textures": [
+        "textures/items/windmill3_brown_on"
+      ]
+     },
+
+     "windmill_acacia": {
+      "textures": [
+        "textures/items/windmill_acacia_on"
+      ]
+     },
+     "windmill_big_oak": {
+      "textures": [
+        "textures/items/windmill_big_oak_on"
+      ]
+     },
+     "windmill_birch": {
+      "textures": [
+        "textures/items/windmill_birch_on"
+      ]
+     },
+     "windmill_crimson": {
+      "textures": [
+        "textures/items/windmill_crimson_on"
+      ]
+     }
+     ,"windmill_jungle": {
+      "textures": [
+        "textures/items/windmill_jungle_on"
+      ]
+     }
+     ,"windmill_warped": {
+      "textures": [
+        "textures/items/windmill_warped_on"
+      ]
+     }
+     ,"windmill_spruce": {
+      "textures": [
+        "textures/items/windmill_spruce_on"
+      ]
+     }
+     ,"windmill_oak": {
+      "textures": [
+        "textures/items/windmill_oak_on"
+      ]
+     },
+
+
+
+     "windmill_white_off": {
+      "textures": [
+        "textures/items/windmill_white_off"
+      ]
+     },
+     "windmill_yellow_off": {
+      "textures": [
+        "textures/items/windmill_yellow_off"
+      ]
+     },
+     "windmill_silver_off": {
+      "textures": [
+        "textures/items/windmill_silver_off"
+      ]
+     },
+     "windmill_red_off": {
+      "textures": [
+        "textures/items/windmill_red_off"
+      ]
+     },
+     "windmill_purple_off": {
+      "textures": [
+        "textures/items/windmill_purple_off"
+      ]
+     },
+     "windmill_pink_off": {
+      "textures": [
+        "textures/items/windmill_pink_off"
+      ]
+     },
+     "windmill_orange_off": {
+      "textures": [
+        "textures/items/windmill_orange_off"
+      ]
+     },
+     "windmill_magenta_off": {
+      "textures": [
+        "textures/items/windmill_magenta_off"
+      ]
+     },
+     "windmill_lime_off": {
+      "textures": [
+        "textures/items/windmill_lime_off"
+      ]
+     },
+     "windmill_light_blue_off": {
+      "textures": [
+        "textures/items/windmill_light_blue_off"
+      ]
+     },
+     "windmill_green_off": {
+      "textures": [
+        "textures/items/windmill_green_off"
+      ]
+     },
+     "windmill_gray_off": {
+      "textures": [
+        "textures/items/windmill_gray_off"
+      ]
+     },
+     "windmill_blue_off": {
+      "textures": [
+        "textures/items/windmill_blue_off"
+      ]
+     },
+     "windmill_black_off": {
+      "textures": [
+        "textures/items/windmill_black_off"
+      ]
+     },
+     "windmill_cyan_off": {
+      "textures": [
+        "textures/items/windmill_cyan_off"
+      ]
+     },
+     "windmill_brown_off": {
+      "textures": [
+        "textures/items/windmill_brown_off"
+      ]
+     },
+
+     "windmill2_white_off": {
+      "textures": [
+        "textures/items/windmill2_white_off"
+      ]
+     },
+     "windmill2_yellow_off": {
+      "textures": [
+        "textures/items/windmill2_yellow_off"
+      ]
+     },
+     "windmill2_silver_off": {
+      "textures": [
+        "textures/items/windmill2_silver_off"
+      ]
+     },
+     "windmill2_red_off": {
+      "textures": [
+        "textures/items/windmill2_red_off"
+      ]
+     },
+     "windmill2_purple_off": {
+      "textures": [
+        "textures/items/windmill2_purple_off"
+      ]
+     },
+     "windmill2_pink_off": {
+      "textures": [
+        "textures/items/windmill2_pink_off"
+      ]
+     },
+     "windmill2_orange_off": {
+      "textures": [
+        "textures/items/windmill2_orange_off"
+      ]
+     },
+     "windmill2_magenta_off": {
+      "textures": [
+        "textures/items/windmill2_magenta_off"
+      ]
+     },
+     "windmill2_lime_off": {
+      "textures": [
+        "textures/items/windmill2_lime_off"
+      ]
+     },
+     "windmill2_light_blue_off": {
+      "textures": [
+        "textures/items/windmill2_light_blue_off"
+      ]
+     },
+     "windmill2_green_off": {
+      "textures": [
+        "textures/items/windmill2_green_off"
+      ]
+     },
+     "windmill2_gray_off": {
+      "textures": [
+        "textures/items/windmill2_gray_off"
+      ]
+     },
+     "windmill2_blue_off": {
+      "textures": [
+        "textures/items/windmill2_blue_off"
+      ]
+     },
+     "windmill2_black_off": {
+      "textures": [
+        "textures/items/windmill2_black_off"
+      ]
+     },
+     "windmill2_cyan_off": {
+      "textures": [
+        "textures/items/windmill2_cyan_off"
+      ]
+     },
+     "windmill2_brown_off": {
+      "textures": [
+        "textures/items/windmill2_brown_off"
+      ]
+     },
+     "windmill3_white_off": {
+      "textures": [
+        "textures/items/windmill3_white_off"
+      ]
+     },
+     "windmill3_yellow_off": {
+      "textures": [
+        "textures/items/windmill3_yellow_off"
+      ]
+     },
+     "windmill3_silver_off": {
+      "textures": [
+        "textures/items/windmill3_silver_off"
+      ]
+     },
+     "windmill3_red_off": {
+      "textures": [
+        "textures/items/windmill3_red_off"
+      ]
+     },
+     "windmill3_purple_off": {
+      "textures": [
+        "textures/items/windmill3_purple_off"
+      ]
+     },
+     "windmill3_pink_off": {
+      "textures": [
+        "textures/items/windmill3_pink_off"
+      ]
+     },
+     "windmill3_orange_off": {
+      "textures": [
+        "textures/items/windmill3_orange_off"
+      ]
+     },
+     "windmill3_magenta_off": {
+      "textures": [
+        "textures/items/windmill3_magenta_off"
+      ]
+     },
+     "windmill3_lime_off": {
+      "textures": [
+        "textures/items/windmill3_lime_off"
+      ]
+     },
+     "windmill3_light_blue_off": {
+      "textures": [
+        "textures/items/windmill3_light_blue_off"
+      ]
+     },
+     "windmill3_green_off": {
+      "textures": [
+        "textures/items/windmill3_green_off"
+      ]
+     },
+     "windmill3_gray_off": {
+      "textures": [
+        "textures/items/windmill3_gray_off"
+      ]
+     },
+     "windmill3_blue_off": {
+      "textures": [
+        "textures/items/windmill3_blue_off"
+      ]
+     },
+     "windmill3_black_off": {
+      "textures": [
+        "textures/items/windmill3_black_off"
+      ]
+     },
+     "windmill3_cyan_off": {
+      "textures": [
+        "textures/items/windmill3_cyan_off"
+      ]
+     },
+     "windmill3_brown_off": {
+      "textures": [
+        "textures/items/windmill3_brown_off"
+      ]
+     },
+
+     "windmill_acacia_off": {
+      "textures": [
+        "textures/items/windmill_acacia_off"
+      ]
+     },
+     "windmill_big_oak_off": {
+      "textures": [
+        "textures/items/windmill_big_oak_off"
+      ]
+     },
+     "windmill_birch_off": {
+      "textures": [
+        "textures/items/windmill_birch_off"
+      ]
+     },
+     "windmill_crimson_off": {
+      "textures": [
+        "textures/items/windmill_crimson_off"
+      ]
+     }
+     ,"windmill_jungle_off": {
+      "textures": [
+        "textures/items/windmill_jungle_off"
+      ]
+     }
+     ,"windmill_warped_off": {
+      "textures": [
+        "textures/items/windmill_warped_off"
+      ]
+     }
+     ,"windmill_spruce_off": {
+      "textures": [
+        "textures/items/windmill_spruce_off"
+      ]
+     }
+     ,"windmill_oak_off": {
+      "textures": [
+        "textures/items/windmill_oak_off"
+      ]
+     }
+  }
+}

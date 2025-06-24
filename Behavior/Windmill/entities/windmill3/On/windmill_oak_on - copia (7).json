@@ -1,0 +1,45 @@
+// Windmill Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+  "format_version": "1.12.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "windmill:windmill_3_brown_on",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:type_family": {
+        "family": [ "inanimate" ]
+      },
+      "minecraft:collision_box": {
+        "width": 0.5,
+        "height":  0.5
+      },
+      "minecraft:health": {
+        "value": 1,
+        "max": 1
+      },"minecraft:trade_table": {
+				"new_screen": true,
+				"display_name": "Windmill",
+				"table": "trading/windmill.json"
+			},
+			"minecraft:loot": {
+				"table": "loot_tables/windmill3/on/windmill_brown.json"
+			},
+      "minecraft:push_through": {
+      "value": 1
+      },
+      "minecraft:scale": {
+       "value": 0.60
+        },
+      "minecraft:nameable": {
+      },
+      "minecraft:physics": {
+      }
+    },
+
+    "events": {
+    }
+  }
+}

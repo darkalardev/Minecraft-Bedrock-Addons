@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "§4Creator: §6@DarkalarDev",
+       "name": "Leather Healing §4by Darkalar",
+       "uuid": "15c65e93-aeef-4430-961b-bd9f83ac7b87", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creator: §6@DarkalarDev",
+           "type": "resources",
+           "uuid": "f8adefaf-0c17-448b-bc23-0de9bdec70eb", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

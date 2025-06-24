@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "§4Creators: §6@DarkalarDev §2@SovietLian",
+       "name": "Last Ruins §4by Darkalar",
+       "uuid": "aa277068-c432-46d7-9302-5f95d7209304", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creators: §6@DarkalarDev §2@SovietLian",
+           "type": "data",
+           "uuid": "3a66aa92-3511-419d-a0fd-75d363d1e0d9", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

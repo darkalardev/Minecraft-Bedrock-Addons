@@ -1,0 +1,30 @@
+item.leatherhealing:clean_meat.name=Clean Meat §6Leather Healing
+item.leatherhealing:cooked_meat.name=Cooked Meat §6Leather Healing
+item.leatherhealing:healthy_leather.name=Healthy Leather §6Leather Healing
+
+item.spawn_egg.entity.leatherhealing:dryer_acacia.name=Acacia Dryer §6Leather Healing
+entity.leatherhealing:dryer_acacia.name=Acacia Dryer §6Leather Healing
+
+item.spawn_egg.entity.leatherhealing:dryer_big_oak.name=Big Oak Dryer §6Leather Healing
+entity.leatherhealing:dryer_big_oak.name=Big Oak Dryer §6Leather Healing
+
+item.spawn_egg.entity.leatherhealing:dryer_birch.name=Birch Dryer §6Leather Healing
+entity.leatherhealing:dryer_birch.name=Birch Dryer §6Leather Healing
+
+item.spawn_egg.entity.leatherhealing:dryer_crimson.name=Crimson Dryer §6Leather Healing
+entity.leatherhealing:dryer_crimson.name=Crimson Dryer §6Leather Healing
+
+item.spawn_egg.entity.leatherhealing:dryer_jungle.name=Jungle Dryer §6Leather Healing
+entity.leatherhealing:dryer_jungle.name=Jungle Dryer §6Leather Healing
+
+item.spawn_egg.entity.leatherhealing:dryer_oak.name=Oak Dryer §6Leather Healing
+entity.leatherhealing:dryer_oak.name=Oak Dryer §6Leather Healing
+
+item.spawn_egg.entity.leatherhealing:dryer_spruce.name=Spruce Dryer §6Leather Healing
+entity.leatherhealing:dryer_spruce.name=Spruce Dryer §6Leather Healing
+
+item.spawn_egg.entity.leatherhealing:dryer_warped.name=Warped Dryer §6Leather Healing
+entity.leatherhealing:dryer_warped.name=Warped Dryer §6Leather Healing
+
+tile.leatherhealing:stacked_leather.name=Stacked Leather §6Leather Healing
+tile.leatherhealing:staked_healthy_leather.name=Stacked Leather Healing §6Leather Healing

@@ -1,0 +1,17 @@
+{
+	"resource_pack_name": "Ragthor",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+	  "radioactive_barrel": {
+		"textures": "textures/blocks/ZeroZone/toxic_barrel1"
+	  },
+      "radioactive_barrel2": {
+		"textures": "textures/blocks/ZeroZone/toxic_barrel2"
+	  },
+      "radioactive_barrel3": {
+		"textures": "textures/blocks/ZeroZone/toxic_barrel3"
+	  }
+	}
+  }

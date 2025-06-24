@@ -1,0 +1,108 @@
+{
+	"resource_pack_name": "ZeroZone",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"can_of_soda_1": {
+			"textures": [
+				"textures/items/ZeroZone/can_of_soda_1"
+			]
+		},
+		"can_of_soda_2": {
+			"textures": [
+				"textures/items/ZeroZone/can_of_soda_2"
+			]
+		},
+		"can_of_soda_3": {
+			"textures": [
+				"textures/items/ZeroZone/can_of_soda_3"
+			]
+		},
+		"can_of_soda_4": {
+			"textures": [
+				"textures/items/ZeroZone/can_of_soda_4"
+			]
+		},
+		"can_of_soda_5": {
+			"textures": [
+				"textures/items/ZeroZone/can_of_soda_5"
+			]
+		},
+		"can_of_soda_6": {
+			"textures": [
+				"textures/items/ZeroZone/can_of_soda_6"
+			]
+		},
+		"can_of_soda_7": {
+			"textures": [
+				"textures/items/ZeroZone/can_of_soda_7"
+			]
+		},
+		"can_of_soda_8": {
+			"textures": [
+				"textures/items/ZeroZone/can_of_soda_8"
+			]
+		},
+		"can_of_soda_9": {
+			"textures": [
+				"textures/items/ZeroZone/can_of_soda_9"
+			]
+		},
+		"can_of_soda_10": {
+			"textures": [
+				"textures/items/ZeroZone/can_of_soda_10"
+			]
+		},
+		"can_of_soda_11": {
+			"textures": [
+				"textures/items/ZeroZone/can_of_soda_11"
+			]
+		},
+		"can_of_soda_12": {
+			"textures": [
+				"textures/items/ZeroZone/can_of_soda_12"
+			]
+		},
+		"healing_pills": {
+			"textures": [
+				"textures/items/ZeroZone/healing_pills"
+			]
+		},
+		"anti_radiation_pills": {
+			"textures": [
+				"textures/items/ZeroZone/anti_radiation_pills"
+			]
+		}
+		,
+		"botiquin": {
+			"textures": [
+				"textures/items/ZeroZone/botiquin"
+			]
+		}
+		,
+		"health_syringe": {
+			"textures": [
+				"textures/items/ZeroZone/jeringa_salud"
+			]
+		},
+		"radiation_syringe": {
+			"textures": [
+				"textures/items/ZeroZone/jeringa_radiacion"
+			]
+		},
+		"adrenaline_syringe": {
+			"textures": [
+				"textures/items/ZeroZone/jeringa_adrenalina"
+			]
+		},
+		"purifying_pills": {
+			"textures": [
+				"textures/items/ZeroZone/pastillas_purificadoras"
+			]
+		},
+		"water_bottle": {
+			"textures": [
+				"textures/items/ZeroZone/botella_agua"
+			]
+		}
+	}
+}

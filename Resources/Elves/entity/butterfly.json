@@ -1,0 +1,41 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+	  "description": {
+		"identifier": "elves:butterfly",
+		"materials": { "default": "bee" },
+		"textures": {
+		  "default": "textures/entity/butterfl_2y",
+		  "angry": "textures/entity/butterfly_angry2",
+		  "nectar": "textures/entity/butterfly",
+		  "angry_nectar": "textures/entity/butterfly_angry"
+		},
+		"geometry": {
+		  "default": "geometry.butterfly"
+		},
+		"animations": {
+		  "flying": "animation.butterfly.fly",
+		  "drip": "controller.animation.bee.drip",
+		  "controller_bee_sting": "controller.animation.bee.sting",
+		  "bee_sting": "animation.bee.sting",
+		  "bee_no_stinger": "animation.bee.no_stinger",
+		  "bee_fly_bobbing": "animation.bee.fly.bobbing",
+		  "bee_root_controller": "controller.animation.bee.root"
+		},      
+		"particle_effects": {
+		  "nectar_dripping": "elves:elf_bread_drip_particle"
+		},
+		"scripts": {
+		  "animate": [
+			"bee_root_controller",
+			{ "bee_no_stinger": "query.mark_variant == 1" }
+		  ]
+		},
+		"render_controllers": [ "controller.render.butterfly" ],
+		"spawn_egg": {
+			"base_color": "#c3b270",
+			"overlay_color": "#73246e"
+		}
+	  }
+	}
+  }

@@ -1,0 +1,29 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.sled_remove": {
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"sled_remove": "(1.0)"
+						}
+					],
+					"on_entry": [
+						"/tag @s remove rider"
+					]
+				},
+				"sled_remove": {
+					"transitions": [
+						{
+							"default": "!query.has_rider"
+						}
+					],
+					"on_entry": [
+						"/tag @s remove rider"
+					]
+				}
+			}
+		}
+	}
+}

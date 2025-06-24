@@ -1,0 +1,33 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "lostweapons:ra",
+      "materials": { "default": "bee" },
+      "textures": {
+        "default": "textures/entity/ra"
+      },
+      "geometry": {
+        "default": "geometry.ra"
+      },
+      "scripts": {
+				"animate": ["walk_controller", "attack_controller"]
+			},
+      "animations": {
+				"walk_controller": "controller.animation.ra.walk",
+				"attack_controller": "controller.animation.ra.attack",
+				"attack": "animation.ra.attack",
+				"idle": "animation.ra.idle",
+				"move": "animation.ra.move"
+			},
+      "render_controllers": [ "controller.render.lostweapons" ],
+      "spawn_egg": {
+				"base_color": "#E7B823",
+				"overlay_color": "#D6C64E"
+			}
+
+      
+    }
+  }
+}
+

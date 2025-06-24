@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "§4Creators: §6@DarkalarDev §2@SovietLian",
+       "name": "Lost Weapons §4by Darkalar",
+       "uuid": "afaab4e0-f568-4e60-b08f-42583049315b", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creators: §6@DarkalarDev §2@SovietLian",
+           "type": "resources",
+           "uuid": "50baace5-d0d8-4002-ad56-61d840b877ff", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

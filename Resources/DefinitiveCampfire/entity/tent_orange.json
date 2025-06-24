@@ -1,0 +1,23 @@
+// Windmill Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "definitivecampfire:tent_orange",
+      "materials": { "default": "spider" },
+      "textures": {
+        "default": "textures/entity/tent_orange"
+      },
+      "geometry": {
+        "default": "geometry.tent"
+      },
+      "render_controllers": [
+				"controller.render.campfire"
+			],
+      "spawn_egg": {
+        "texture": "tent_orange",
+        "texture_index": 0
+      }
+    }
+  }
+}

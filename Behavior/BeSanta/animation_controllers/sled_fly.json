@@ -1,0 +1,29 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.sled_fly": {
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"sled_fly": "(1.0)"
+						}
+					],
+					"on_entry": [
+						"/function sled"
+					]
+				},
+				"sled_fly": {
+					"transitions": [
+						{
+							"default": "query.has_rider"
+						}
+					],
+					"on_entry": [
+						"/function sled"
+					]
+				}
+			}
+		}
+	}
+}

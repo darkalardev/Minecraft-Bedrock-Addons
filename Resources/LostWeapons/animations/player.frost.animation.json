@@ -1,0 +1,23 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.player.frost.first_person": {
+			"loop": true,
+			"bones": {
+				"rightitem": {
+					"rotation": ["c.is_first_person ? 150 : 0", "c.is_first_person ? 130 : 0","c.is_first_person ? 100 : 0"],
+				    "position": [ " c.is_first_person ? 0 : 0", "c.is_first_person ? 4.5 : 0", "c.is_first_person ? 0 : 0"]
+				}
+			}
+		},
+		"animation.player.frost": {
+			"loop": true,
+			"bones": {
+			    "rightitem": {
+			        "position": [ 0, -1, -2],
+					"rotation": [0, 0, 0]
+				}
+			}
+		}
+	}
+}

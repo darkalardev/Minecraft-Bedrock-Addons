@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "§4Creator: §6@DarkalarDev",
+       "name": "Vase §4by Darkalar",
+       "uuid": "69e49624-5506-4c8b-9276-a1aea68ae452", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creator: §6@DarkalarDev",
+           "type": "resources",
+           "uuid": "08a060f0-eaec-4c5f-9a1e-df02aa9d8b48", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "lostweapons:pashupatastra"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "HAH",
+      "HBH",
+      "HCH"
+    ],
+    "key": {
+      "H": {
+        "item": "lostweapons:god_soul"
+      },
+      "A": {
+        "item": "lostweapons:fragment_of_pashupatastra1"
+      },
+      "B": {
+        "item": "lostweapons:fragment_of_pashupatastra2"
+      },
+      "C": {
+        "item": "lostweapons:fragment_of_pashupatastra3"
+      }
+    },
+    "result": [
+      { "item": "lostweapons:pashupatastra" }
+    ]
+  }
+}

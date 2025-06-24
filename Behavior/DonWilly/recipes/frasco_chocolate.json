@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "donwilly:frasco_chocolate"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "donwilly:chocolate"
+      },
+      "B": {
+        "item": "donwilly:frasco"
+      }
+    },
+    "result": [
+      { "item": "donwilly:frasco_chocolate" }
+    ]
+  }
+}

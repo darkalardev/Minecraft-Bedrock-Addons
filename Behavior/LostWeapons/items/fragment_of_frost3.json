@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lostweapons:fragment_of_frost3",
+      "category": "Nature"
+    },
+
+    "components": {
+        "minecraft:use_duration": 32
+      }
+    }
+  }

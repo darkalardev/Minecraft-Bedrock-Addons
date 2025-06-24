@@ -1,0 +1,27 @@
+{
+   "format_version" : "1.14.0",
+   "sound_definitions" : {
+      "mob.ymir.say" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "hostile",
+         "sounds" : [
+            "sounds/ymir_say",
+            {
+               "load_on_low_memory" : true,
+               "name" : "sounds/ymir_say"
+            },
+            "sounds/ymir_say"
+         ]
+      },
+      "mob.ymir.death" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "hostile",
+         "sounds" : [ "sounds/ymir_death" ]
+      },
+      "mob.ymir.hurt" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "hostile",
+         "sounds" : [ "sounds/ymir_hurt" ]
+      }
+   }
+}

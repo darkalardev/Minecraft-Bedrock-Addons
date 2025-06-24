@@ -1,0 +1,25 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "leatherhealing:staked_healthy_leather"
+		},
+		"tags": [ "crafting_table" ],
+		"pattern": [
+			"AAA",
+			"AAA",
+			"AAA"
+		],
+		"key": {
+			"A": {
+				"item": "leatherhealing:healthy_leather"
+			}
+		},
+		"result": [
+			{
+				"item": "leatherhealing:staked_healthy_leather",
+				"count": 1
+			}
+		]
+	}
+}

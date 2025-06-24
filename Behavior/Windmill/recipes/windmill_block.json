@@ -1,0 +1,28 @@
+// Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "windmill:windmill_block"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:stick"
+      },
+      "A": {
+        "item": "minecraft:iron_block"
+      }
+    },
+    "result": {
+      "item": "windmill:windmill_block"
+    }
+  }
+}

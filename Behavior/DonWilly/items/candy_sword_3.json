@@ -1,0 +1,58 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+	  "description": {
+		"category": "equipment",
+		"identifier": "donwilly:candy_sword_3"
+	  },
+	  "components": {
+		"minecraft:creative_category": {
+		  "parent": "itemGroup.name.sword"
+		},
+		"minecraft:max_stack_size": 1,
+		"minecraft:use_duration": 80,
+		"minecraft:hand_equipped": true,
+		"minecraft:allow_off_hand": true,
+		"minecraft:durability": {
+		  "max_durability": 80,
+		  "damage_chance": {
+			"min": 4,
+			"max": 6
+		  }
+		},
+		"minecraft:repairable": {
+		  "repair_items": [
+			{
+			  "items": [
+				"donwilly:gum"
+			  ],
+			  "repair_amount": 3
+			}
+		  ]
+		},
+		"minecraft:mining_speed": 1.5,
+		"minecraft:damage": 8,
+		"minecraft:enchantable": {
+		  "value": 8,
+		  "slot": "sword"
+		},
+		"minecraft:can_destroy_in_creative": false,
+		"minecraft:digger": {
+		  "use_efficiency": true,
+		  "destroy_speeds": [
+			{
+			  "block": "minecraft:web",
+			  "speed": 11
+			}
+		  ]
+		},
+		"tag:minecraft:is_sword": {},
+		"minecraft:icon": {
+		  "texture": "candy_sword_3"
+		},
+		"minecraft:display_name": {
+		  "value": "item.donwilly:candy_sword_3.name"
+		}
+	  }
+	}
+  }

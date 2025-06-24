@@ -1,0 +1,13 @@
+// Windmill Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+	"format_version" : "1.8.0",
+	"animation_controllers" : {
+		"controller.animation.windmill.turn" : {
+			"states": {
+			  "default": {
+				"animations": [ { "turn": [] } ]
+			  }
+			}
+		  }
+	}
+}

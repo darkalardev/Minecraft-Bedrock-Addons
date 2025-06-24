@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "donwilly:candy_sword_4"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A",
+      "A",
+      "B"
+    ],
+    "key": {
+      "A": {
+        "item": "donwilly:caramelo4"
+      },
+      "B": {
+        "item": "donwilly:gum"
+      }
+    },
+    "result": [
+      { "item": "donwilly:candy_sword_4" }
+    ]
+  }
+}

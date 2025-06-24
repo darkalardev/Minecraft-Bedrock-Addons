@@ -1,0 +1,27 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+	  "description": {
+	  "identifier": "vase:vase_oak"
+	  },
+  
+	  
+	  "tags": [ "crafting_table" ],
+	  "pattern": [
+		"AB"
+	  ],
+	  "key": {
+		"A": {
+		  "item": "vase:vase"
+		},
+		"B": {
+		  "item": "minecraft:log",
+		  "data": 0
+		}
+	  },
+	  "result": [
+		{ "item": "vase:vase_oak" }
+	  ]
+	}
+  }
+  

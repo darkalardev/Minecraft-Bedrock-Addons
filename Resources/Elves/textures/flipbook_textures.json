@@ -1,0 +1,26 @@
+[
+  {
+    "flipbook_texture": "textures/blocks/elves_stem_violet",
+    "atlas_tile": "blood_log_side",
+    "ticks_per_frame": 12,
+    "frames": [0, 1, 2, 3, 4]
+  },
+  {
+    "flipbook_texture": "textures/blocks/elves_stem_white",
+    "atlas_tile": "soul_log_side",
+    "ticks_per_frame": 12,
+    "frames": [0, 1, 2, 3, 4]
+  },
+  {
+    "flipbook_texture": "textures/blocks/elves_dirt",
+    "atlas_tile": "elves_dirt",
+    "ticks_per_frame": 12,
+    "frames": [0, 1, 2, 3, 4]
+  },
+  {
+    "flipbook_texture": "textures/blocks/elves_grass_side",
+    "atlas_tile": "elves_grass_side",
+    "ticks_per_frame": 12,
+    "frames": [0, 1, 2, 3, 4]
+  }
+]

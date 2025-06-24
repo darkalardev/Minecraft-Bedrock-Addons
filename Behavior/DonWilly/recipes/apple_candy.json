@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "donwilly:apple_candy_loot"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A"
+    ],
+    "key": {
+      "A": {
+        "item": "donwilly:apple_candy"
+      }
+    },
+    "result": [
+      { "item": "donwilly:apple_lollipop",
+        "count": "3" }
+    ]
+  }
+}

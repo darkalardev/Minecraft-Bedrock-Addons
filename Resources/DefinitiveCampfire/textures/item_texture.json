@@ -1,0 +1,96 @@
+// Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+  "resource_pack_name": "Campfire",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "tent_red": {
+      "textures": [
+        "textures/items/tent_red"
+      ]
+     },
+     "tent_black": {
+      "textures": [
+        "textures/items/tent_black"
+      ]
+     },
+     "tent_blue": {
+      "textures": [
+        "textures/items/tent_blue"
+      ]
+     },
+     "tent_brown": {
+      "textures": [
+        "textures/items/tent_brown"
+      ]
+     },
+     "tent_cyan": {
+      "textures": [
+        "textures/items/tent_cyan"
+      ]
+     },
+     "tent_gray": {
+      "textures": [
+        "textures/items/tent_gray"
+      ]
+     },
+     "tent_green": {
+      "textures": [
+        "textures/items/tent_green"
+      ]
+     },
+     "tent_light_blue": {
+      "textures": [
+        "textures/items/tent_light_blue"
+      ]
+     },
+     "tent_lime": {
+      "textures": [
+        "textures/items/tent_lime"
+      ]
+     },
+     "tent_magenta": {
+      "textures": [
+        "textures/items/tent_magenta"
+      ]
+     },
+     "tent_orange": {
+      "textures": [
+        "textures/items/tent_orange"
+      ]
+     },
+     "tent_pink": {
+      "textures": [
+        "textures/items/tent_pink"
+      ]
+     },
+     "tent_purple": {
+      "textures": [
+        "textures/items/tent_purple"
+      ]
+     },
+     "tent_silver": {
+      "textures": [
+        "textures/items/tent_silver"
+      ]
+     },
+     "tent_white": {
+      "textures": [
+        "textures/items/tent_white"
+      ]
+     },
+     "tent_yellow": {
+      "textures": [
+        "textures/items/tent_yellow"
+      ]
+     }
+     ,"log": {
+      "textures": [
+        "textures/items/log"
+      ]
+     },"log_oak": {
+      "textures": [
+        "textures/items/log_oak"
+      ]
+     }
+  }
+}

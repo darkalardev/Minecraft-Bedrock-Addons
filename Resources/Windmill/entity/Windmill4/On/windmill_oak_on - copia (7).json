@@ -1,0 +1,29 @@
+// Windmill Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "windmill:windmill_warped_on",
+      "materials": { "default": "spider" },
+      "textures": {
+        "default": "textures/entity/windmill_warped"
+      },
+      "geometry": {
+        "default": "geometry.windmill_4"
+      },
+      "animations": {
+        "turn": "animation.windmill.turn"
+      },
+      "animation_controllers": [
+        { "turn": "animation.windmill.turn" }
+      ],
+      "render_controllers": [
+				"controller.render.dryer"
+			],
+      "spawn_egg": {
+        "texture": "windmill_warped",
+        "texture_index": 0
+      }
+    }
+  }
+}

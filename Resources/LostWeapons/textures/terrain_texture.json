@@ -1,0 +1,20 @@
+{
+  "resource_pack_name": "Lost Weapons",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+      "frozen_stone": {
+      "textures": "textures/blocks/frozen_stone"
+    },
+      "hot_stone":{
+        "textures": "textures/blocks/hot_stone"
+      },
+      "frozen_deepslate":{
+        "textures": "textures/blocks/frozen_deepslate"
+      },
+      "lostweapons_cesped" : {
+        "textures" : "textures/blocks/frozen_grass"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+// Windmill Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "windmill:windmill_3_pink_off",
+      "materials": { "default": "spider" },
+      "textures": {
+        "default": "textures/entity/windmill_pink"
+      },
+      "geometry": {
+        "default": "geometry.windmill_3"
+      },
+      "render_controllers": [
+				"controller.render.dryer"
+			],
+      "spawn_egg": {
+        "texture": "windmill3_pink_off",
+        "texture_index": 0
+      }
+    }
+  }
+}

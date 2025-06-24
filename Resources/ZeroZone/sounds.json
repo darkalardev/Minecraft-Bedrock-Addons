@@ -1,0 +1,23 @@
+{
+   "entity_sounds": {
+      
+    "entities": {
+         "zerozone:infected_wolf" : {
+            "events" : {
+               "ambient" : "mob.infected_wolf.say",
+               "death" : "mob.wolf.death",
+               "hurt" : "mob.wolf.hurt",
+               "step" : {
+                  "pitch" : 1.0,
+                  "sound" : "mob.wolf.step",
+                  "volume" : 0.450
+               }
+            },
+            "pitch" : [ 0.80, 1.20 ],
+            "volume" : 1.0
+         }
+         
+      } 
+   
+}
+}

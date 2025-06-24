@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "donwilly:whitechocolate_brick"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "AA",
+      "AA"
+    ],
+    "key": {
+      "A": {
+        "item": "donwilly:whitechocolate"
+      }
+    },
+    "result": [
+      { "item": "donwilly:whitechocolate_brick", "count": "4" }
+    ]
+  }
+}

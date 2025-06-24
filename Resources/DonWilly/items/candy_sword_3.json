@@ -1,0 +1,15 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "donwilly:candy_sword_3",
+      "category": "Equipment",
+      "register_to_creative_menu": true
+    },
+
+    "components": {
+      "minecraft:icon": "candy_sword_3",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

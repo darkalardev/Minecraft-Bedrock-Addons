@@ -1,0 +1,33 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:spawn_rules": {
+		"description": {
+			"identifier": "elves:elf",
+			"population_control": "animal"
+		},
+		"conditions": [
+			{
+				"minecraft:brightness_filter": {
+					"min": 1,
+					"max": 15,
+					"adjust_for_weather": false
+				},
+				"minecraft:weight": {
+					"default": 15
+				},
+				"minecraft:herd": {
+					"min_size": 2,
+					"max_size": 6
+				},
+				"minecraft:biome_filter": {
+					"test": "has_biome_tag",
+					"operator": "==",
+					"value": "elves"
+				},
+				"minecraft:spawns_on_block_filter": [
+					"elves:elves_carpet"
+				]
+			}
+		]
+	}
+}

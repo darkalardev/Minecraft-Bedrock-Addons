@@ -1,0 +1,7 @@
+{
+  "format_version": [1, 1, 0],
+    "windmill:windmill_block": {
+    "textures": "windmill_block",
+    "sound": "stone"
+  }
+}

@@ -1,0 +1,53 @@
+// Windmill Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+  "format_version": "1.12.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "definitivecampfire:log",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:type_family": {
+        "family": [ "inanimate" ]
+      },
+      "minecraft:collision_box": {
+        "width": 0.5,
+        "height":  0.5
+      },
+      "minecraft:health": {
+        "value": 1,
+        "max": 1
+      },
+			"minecraft:loot": {
+				"table": "loot_tables/log.json"
+			},
+      "minecraft:push_through": {
+      "value": 1
+      },
+      "minecraft:rideable": {
+        "seat_count": 1,
+        "family_types": [
+          "player",
+          "zombie"
+        ],
+        "interact_text": "action.interact.boat",
+        "seats": [
+          {"position": [0, 1.5, 0.2]}
+        ]
+
+      },
+      "minecraft:scale": {
+       "value": 0.60
+        },
+      "minecraft:nameable": {
+      },
+      "minecraft:physics": {
+      }
+    },
+
+    "events": {
+    }
+  }
+}

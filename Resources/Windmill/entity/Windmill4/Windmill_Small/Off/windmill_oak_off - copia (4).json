@@ -1,0 +1,23 @@
+// Windmill Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "windmill:windmill_small_birch_off",
+      "materials": { "default": "spider" },
+      "textures": {
+        "default": "textures/entity/windmill_birch"
+      },
+      "geometry": {
+        "default": "geometry.windmill_5"
+      },
+      "render_controllers": [
+				"controller.render.dryer"
+			],
+      "spawn_egg": {
+        "texture": "windmill_birch_off",
+        "texture_index": 0
+      }
+    }
+  }
+}

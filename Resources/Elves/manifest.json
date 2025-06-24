@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "§4Creators: §6@DarkalarDev §2@SovietLian",
+       "name": "Elves §4by Darkalar",
+       "uuid": "cf0771ed-c157-4ccc-a1bc-c6a00f829d7e", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creators: §6@DarkalarDev §2@SovietLian",
+           "type": "resources",
+           "uuid": "54943550-45c5-42ad-8cd0-44b9d165ed10", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

@@ -1,0 +1,32 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.player.frost",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 8,
+				"visible_bounds_height": 13.5,
+				"visible_bounds_offset": [0, 6.25, 0]
+			},
+			"bones": [
+				{
+					"name": "rightitem",
+					"pivot": [-9, 20, 8],
+					"rotation": [-30, 0, 0]
+				},
+				{
+					"name": "rightitem2",
+					"parent": "rightitem",
+					"pivot": [-9, 20, 9],
+					"cubes": [
+						{"origin": [-15, 14.52949, -24.39749], "size": [12, 12, 17], "uv": [0, 0]},
+						{"origin": [-12, 17.52949, -8.39749], "size": [6, 6, 6], "uv": [22, 29]},
+						{"origin": [-10, 19.52949, -2.39749], "size": [2, 2, 18], "uv": [0, 29]}
+					]
+				}
+			]
+		}
+	]
+}

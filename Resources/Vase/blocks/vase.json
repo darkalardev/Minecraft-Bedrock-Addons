@@ -1,0 +1,26 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+	  "description": {
+		"identifier": "vase:vase"
+	  },
+	  "components": {
+		"minecraft:destroy_time": 1,
+		"minecraft:explosion_resistance": 2,
+  
+		"minecraft:block_light_emission": 0,
+		   "minecraft:material_instances": {
+			  "*": {
+				 "texture": "vase",
+				 "render_method": "alpha_test"
+			  }
+		   },
+		   "minecraft:geometry": "geometry.jarron2",
+		   "minecraft:block_light_absorption": 0,
+		  "minecraft:pick_collision": {
+			  "origin":  [-8.0, 0.0, -8.0],
+			  "size":   [10.0, 10.0, 10.0]
+		  }
+	  }
+	}
+  }

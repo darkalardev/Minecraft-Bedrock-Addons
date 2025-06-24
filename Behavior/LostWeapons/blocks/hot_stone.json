@@ -1,0 +1,17 @@
+{
+    "format_version": "1.16.0",
+    "minecraft:block": {
+        "description": {
+            "identifier": "lostweapons:hot_stone"
+        },
+        "components": {
+            "minecraft:destroy_time": 0.5,
+            "minecraft:friction": 0.6,
+            "minecraft:map_color": "#744410",
+            "minecraft:block_light_absorption": 0.0,
+            "minecraft:block_light_emission": 0.0,
+            "minecraft:loot": "loot_tables/blocks/hot_stone.json"
+        }
+        
+    }
+}

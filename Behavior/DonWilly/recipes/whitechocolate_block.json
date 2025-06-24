@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "donwilly:whitechocolate_block_loot"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A"
+    ],
+    "key": {
+      "A": {
+        "item": "donwilly:whitechocolate_block"
+      }
+    },
+    "result": [
+      { "item": "donwilly:whitechocolate",
+        "count": "3" }
+    ]
+  }
+}

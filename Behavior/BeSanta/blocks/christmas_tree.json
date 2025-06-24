@@ -1,0 +1,27 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+	  "description": {
+		"identifier": "elves:christmas_tree"
+	  },
+	  "components": {
+		"minecraft:creative_category": {
+			"category": "Construction"
+		},
+		"minecraft:destroy_time": 0.2,
+		"minecraft:block_light_emission": 0.8,
+		   "minecraft:material_instances": {
+			  "*": {
+				 "texture": "tree_besanta",
+				 "render_method": "alpha_test"
+			  }
+		   },
+		   "minecraft:geometry": "geometry.tree_besanta",
+		   "minecraft:block_light_absorption": 0,
+		  "minecraft:pick_collision": {
+			"origin":  [0, 0.0, 0],
+			"size":   [16.0, 16.0, 16.0]
+		  }
+	  }
+	}
+  }

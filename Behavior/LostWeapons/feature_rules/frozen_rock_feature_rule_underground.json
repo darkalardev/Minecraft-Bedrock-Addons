@@ -1,0 +1,45 @@
+{
+    "format_version": "1.13.0",
+    "minecraft:feature_rules": {
+        "description": {
+            "identifier": "minecraft:frozen_rock_underground_feature_rule",
+            "places_feature": "minecraft:frozen_rock_underground_mcstructure"
+        },
+        "conditions": {
+            "placement_pass": "underground_pass",
+            "minecraft:biome_filter": [
+                {
+                    "all_of": [
+                        {
+                            "any_of": [
+                                {
+                                    "test": "has_biome_tag",
+                                    "operator": "==",
+                                    "value": "cold_taiga"
+                                },
+                                {
+                                    "test": "has_biome_tag",
+                                    "operator": "==",
+                                    "value": "cold_taiga_mutated"
+                                },
+                                {
+                                    "test": "has_biome_tag",
+                                    "operator": "==",
+                                    "value": "ice_plains"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "distribution": {
+            "iterations": 1,
+            "scatter_chance": 5.0,
+            "x": 0,
+            "y": "variable.random = (Math.random(60, 100)); return variable.random > (query.above_top_solid(variable.worldx, variable.worldz) - 2) ? 60 : variable.random;",
+            "z": 0
+        }
+    
+    }
+}

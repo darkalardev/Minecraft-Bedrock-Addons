@@ -1,0 +1,14 @@
+{
+	"format_version": 1.1,
+	"minecraft:item": {
+		"description": {
+			"identifier": "zerozone:adrenaline_syringe",
+			"category": "Nature"
+		},
+		"components": {
+			"minecraft:icon": "adrenaline_syringe",
+			"minecraft:use_animation": "eat",
+			"minecraft:render_offsets": "apple"
+		}
+	}
+}

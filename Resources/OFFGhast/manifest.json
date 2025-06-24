@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "§4Creator: §6@DarkalarDev",
+       "name": "OFF Ghast §4by Darkalar",
+       "uuid": "7eef6c85-ad83-498d-aa07-e933db6b33fa", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creator: §6@DarkalarDev",
+           "type": "resources",
+           "uuid": "2f6f43c7-b27c-444b-bea5-07bd530c9a56", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

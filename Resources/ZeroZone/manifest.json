@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "§4Creators: §6@Darkalar §2@SovietLian",
+       "name": "Zero Zone §4by Darkalar",
+       "uuid": "89ab0c5b-6873-41a1-a0ab-b64864ca5477", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creators: §6@Darkalar §2@SovietLian",
+           "type": "resources",
+           "uuid": "2bddb2e0-4fc7-4809-af17-6a1b020dc7b6", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

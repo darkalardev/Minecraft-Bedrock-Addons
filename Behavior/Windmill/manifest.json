@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "§4Creator: §6@DarkalarDev",
+       "name": "Windmill §4by Darkalar",
+       "uuid": "08c8ae14-136b-46d8-8cee-b82c8b9bf712", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creator: §6@DarkalarDev",
+           "type": "data",
+           "uuid": "d0bed6df-f685-4979-91e1-3ebac6b8199e", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

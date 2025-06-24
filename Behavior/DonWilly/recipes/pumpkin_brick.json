@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "donwilly:pumpkin_brick"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "AA",
+      "AA"
+    ],
+    "key": {
+      "A": {
+        "item": "donwilly:pumpkin_lollipop"
+      }
+    },
+    "result": [
+      { "item": "donwilly:pumpkin_brick", "count": "4" }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+// Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "leatherhealing:healthy_leather",
+      "category": "Nature"
+    },
+
+    "components": {
+        "minecraft:use_duration": 32
+      }
+    }
+  }

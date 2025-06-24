@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "lostweapons:clepsidra"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "HAH",
+      "HBH",
+      "HCH"
+    ],
+    "key": {
+      "H": {
+        "item": "lostweapons:god_soul"
+      },
+      "A": {
+        "item": "lostweapons:fragment_of_clepsidra1"
+      },
+      "B": {
+        "item": "lostweapons:fragment_of_clepsidra2"
+      },
+      "C": {
+        "item": "lostweapons:fragment_of_clepsidra3"
+      }
+    },
+    "result": [
+      { "item": "lostweapons:clepsidra" }
+    ]
+  }
+}

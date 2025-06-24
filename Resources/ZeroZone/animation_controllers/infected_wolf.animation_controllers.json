@@ -1,0 +1,47 @@
+{
+	"format_version" : "1.10.0",
+	"animation_controllers" : {
+		"controller.animation.infected_wolf.idle" : {
+			"initial_state" : "default",
+			"states" : {
+				"default" : {
+					"animations" : [ "idle" ],
+					"transitions" : [
+						{
+							"move" : "query.is_angry"
+						}
+					]
+				},
+				"move" : {
+					"animations" : [ "move" ],
+					"transitions" : [
+						{
+							"default" : "!query.is_angry"
+						}
+					]
+				}
+				
+			}
+		},
+		"controller.animation.infected_wolf.attack" : {
+		"initial_state" : "default",
+			"states" : {
+				"default" : {
+					"transitions" : [
+						{
+							"attack" : "query.is_delayed_attacking"
+						}
+					]
+				},
+				"attack" : {
+					"animations" : [ "attack" ],
+					"transitions" : [
+						{
+							"default" : "!query.is_delayed_attacking"
+						}
+					]
+				}
+			}
+		}
+	}
+}

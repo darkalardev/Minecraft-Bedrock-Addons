@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "lostweapons:weapon_of_gods"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "lostweapons:god_soul"
+      }
+    },
+    "result": [
+      { "item": "lostweapons:weapon_of_gods" }
+    ]
+  }
+}

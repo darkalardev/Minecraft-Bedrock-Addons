@@ -1,0 +1,21 @@
+{
+	"format_version": 1.1,
+	"minecraft:item": {
+		"description": {
+			"identifier": "zerozone:radiation_syringe"
+		},
+		"components": {
+			"minecraft:use_duration": 32,
+			"minecraft:food": {
+				"nutrition": 0,
+				"saturation_modifier": "low",
+				"effects": [
+					{
+						"name": "poison",
+						"duration": 30
+					}
+				]
+			}
+		}
+	}
+}

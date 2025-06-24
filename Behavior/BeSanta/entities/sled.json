@@ -1,0 +1,191 @@
+{
+	"format_version": "1.13.0",
+	"minecraft:entity": {
+		"description": {
+			"identifier": "besanta:sled",
+			"is_spawnable": true,
+			"is_summonable": true,
+			"is_experimental": false,
+			"scripts": {
+				"animate": [
+					"sled_fly",
+					"sled_remove"
+				]
+			},
+			"animations": {
+				"sled_fly": "controller.animation.sled_fly",
+				"sled_remove": "controller.animation.sled_remove"
+			}
+		},
+		"component_groups": {
+			"minecraft:ranger": {
+				"minecraft:is_tamed": {},
+				"minecraft:rideable": {
+					"seat_count": 1,
+					"family_types": [
+					  "player"
+					],
+					"seats": [
+						{
+							"position": [0, 0.4, 0]
+					}      
+					],
+					"interact_text": "Be Santa",
+					"rider_can_interact": true,
+					"controlling_seat": 0,
+					"pull_in_entities": false  
+				}  
+			},
+				"minecraft:bugfixer": {
+				"minecraft:timer": {
+					"time": [
+						0.1,
+						0.1
+					],
+					"looping": false,
+					"time_down_event": {
+						"event": "minecraft:bugfix",
+						"target": "self"
+					}
+				}
+			},
+			"minecraft:horse_saddled": {
+				"minecraft:input_ground_controlled": {},
+				"minecraft:can_power_jump": {},
+				"minecraft:behavior.player_ride_tamed": {}
+			}
+		},
+		"components": {
+			"minecraft:scale": {
+				"value": 2
+			},
+			"minecraft:equippable": {
+				"slots": [
+					{
+						"slot": 0,
+						"item": "saddle",
+						"accepted_items": [
+							"saddle"
+						],
+						"on_equip": {
+							"event": "minecraft:horse_saddled"
+						},
+						"on_unequip": {
+							"event": "minecraft:horse_unsaddled"
+						}
+
+					}
+				]
+			},
+			"minecraft:type_family": {
+				"family": [
+					"horse"
+				]
+			},
+			"minecraft:breathable": {
+				"totalSupply": 15,
+				"suffocateTime": 0
+			},
+			"minecraft:collision_box": {
+				"width": 1.2,
+        "height": 0.8
+			},
+			"minecraft:health": {
+				"value": {
+					"range_min": 30,
+					"range_max": 30
+				}
+			},
+			
+			"minecraft:inventory": {
+				"inventory_size": 1,
+				"container_type": "horse"
+			},
+			"minecraft:movement": {
+				"value": {
+					"range_min": 0.90,
+					"range_max": 1.25
+				}
+			},
+			"minecraft:loot": {
+			"table": "loot_tables/entities/sled.json"
+		},
+			"minecraft:navigation.walk": {
+				"can_path_over_water": true,
+				"avoid_water": false,
+				"avoid_damage_blocks": true,
+				"is_amphibious": true
+			},
+			"minecraft:movement.basic": {},
+			"minecraft:jump.static": {},
+			"minecraft:nameable": {},
+			"minecraft:horse.jump_strength": {
+				"value": {
+					"range_min": 8,
+					"range_max": 12
+				}
+			},
+			"minecraft:fall_damage": {
+				"value": 0
+			},
+			"minecraft:balloonable": {},
+			"minecraft:behavior.float": {
+				"priority": 0
+			},
+			"minecraft:is_chested": {},
+			"minecraft:physics": {},
+			"minecraft:damage_sensor": {
+				"triggers": [
+					{
+						"cause": "fall"
+					}
+				]
+			}
+		},
+		"events": {
+			"minecraft:entity_spawned": {
+				"randomize": [
+					{
+						"weight": 10,
+						"add": {
+							"component_groups": [
+								"minecraft:ranger"
+							]
+						}
+					}
+				]
+			},
+			"minecraft:horse_saddled": {
+				"add": {
+					"component_groups": [
+						"minecraft:horse_saddled"
+					]
+				}
+			},
+			"minecraft:horse_unsaddled": {
+				"add": {
+					"component_groups": [
+						"minecraft:bugfixer"
+					]
+				},
+				"remove": {
+					"component_groups": [
+						"minecraft:horse_saddled"
+					]
+				}
+			},
+			"minecraft:bugfix": {
+				"add": {
+					"component_groups": [
+						"minecraft:ranger"
+					]
+				},
+				"remove": {
+					"component_groups": [
+						"minecraft:bugfixer"
+					]
+				}
+			}
+		}
+	}
+}

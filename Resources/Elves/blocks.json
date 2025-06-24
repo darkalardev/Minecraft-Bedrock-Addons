@@ -1,0 +1,152 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "blood_log" : {
+    "sound" : "stem",
+    "textures" : {
+       "down" : "blood_log_top",
+       "east" : "blood_log_side",
+       "north" : "blood_log_side",
+       "south" : "blood_log_side",
+       "up" : "blood_log_top",
+       "west" : "blood_log_side"
+    }
+ },
+ "soul_log" : {
+  "sound" : "stem",
+  "textures" : {
+     "down" : "soul_log_top",
+     "east" : "soul_log_side",
+     "north" : "soul_log_side",
+     "south" : "soul_log_side",
+     "up" : "soul_log_top",
+     "west" : "soul_log_side"
+  }
+},
+  "elves_grass" : {
+    "sound" : "fungus",
+    "textures" : {
+      "down" : "elves_grass_bottom",
+      "side" : "elves_grass_side",
+      "up" : "elves_grass_top"
+    }
+  },
+  "soul_leaves": {
+		"textures": "soul_leaves",
+		"sound": "azalea_leaves"
+	  },
+    "soul_leaves2": {
+      "textures": "soul_leaves2",
+      "sound": "azalea_leaves"
+      },
+    "blood_leaves": {
+      "textures": "blood_leaves",
+      "sound": "azalea_leaves"
+      },
+    "blood_log_stripped" : {
+        "sound" : "stem",
+        "textures" : {
+          "down" : "blood_log_stripped_top",
+          "side" : "blood_log_stripped_side",
+          "up" : "blood_log_stripped_top"
+        }
+      },
+      "soul_log_stripped" : {
+        "sound" : "stem",
+        "textures" : {
+          "down" : "soul_log_stripped_top",
+          "side" : "soul_log_stripped_side",
+          "up" : "soul_log_stripped_top"
+        }
+      },
+      "blood_wood": {
+        "textures": "blood_wood",
+        "sound": "wood"
+        },
+        "soul_wood": {
+          "textures": "soul_wood",
+          "sound": "wood"
+          },
+          "elves_dirt": {
+            "textures": "elves_dirt",
+            "sound": "fungus"
+            },
+            "elves_cesped": {
+              "textures": "elves_cesped",
+              "sound": "fungus"
+              },
+              "elves_cesped2": {
+                "textures": "elves_cesped2",
+                "sound": "fungus"
+                },
+                "elves_carpet": {
+                  "textures": "elves_carpet",
+                  "sound": "wood"
+                  },
+                  "elves_king_carpet": {
+                    "textures": "elves_king_carpet",
+                    "sound": "wood"
+                    },
+                    "soga": {
+                      "textures": "soga",
+                      "sound": "fungus"
+                      },
+                      "elves_linterna": {
+                        "textures": "elves_linterna",
+                        "sound": "fungus"
+                        },
+                        "elves_light_soul": {
+                          "textures": "elves_light_soul",
+                          "sound": "fungus"
+                          },
+                          "elves_light_blood": {
+                            "textures": "elves_light_blood",
+                            "sound": "fungus"
+                            },
+                            "elves_liana1": {
+                              "textures": "elves_liana1",
+                              "sound": "fungus"
+                              },
+                              "elves_liana2": {
+                                "textures": "elves_liana2",
+                                "sound": "fungus"
+                                },
+                                "elves_liana3": {
+                                  "textures": "elves_liana3",
+                                  "sound": "fungus"
+                                  },
+                                  "elves_liana4": {
+                                    "textures": "elves_liana4",
+                                    "sound": "fungus"
+                                    },
+                                    "elves_liana5": {
+                                      "textures": "elves_liana5",
+                                      "sound": "fungus"
+                                      },
+                                      "elves_liana6": {
+                                        "textures": "elves_liana6",
+                                        "sound": "fungus"
+                                        },
+                                        "elf_bread": {
+                                          "textures": "elf_bread",
+                                          "sound": "fungus"
+                                          },
+                                          "elf_bread_base": {
+                                            "textures": "elf_bread_base",
+                                            "sound": "fungus"
+                                            },
+                                            "butterfly_house" : {
+                                              "sound" : "stem",
+                                              "textures" : {
+                                                 "down" : "fairy_nest_bottom",
+                                                 "east" : "fairy_nest_front_honey",
+                                                 "north" : "fairy_nest_side",
+                                                 "south" : "fairy_nest_front_honey",
+                                                 "up" : "fairy_nest_top",
+                                                 "west" : "fairy_nest_front"
+                                              }
+                                           }
+}

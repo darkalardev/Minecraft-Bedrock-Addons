@@ -1,0 +1,50 @@
+{
+    "tiers": [
+        {
+            "trades": [
+                {
+                    "wants": [
+                        {
+                            "item": "leatherhealing:clean_meat",
+                            "quantity": 4
+                        }
+                    ],
+                    "gives": [
+                        {
+                            "item": "leatherhealing:healthy_leather",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "wants": [
+                        {
+                            "item": "leatherhealing:healthy_leather",
+                            "quantity": 1
+                        }
+                    ],
+                    "gives": [
+                        {
+                            "item": "minecraft:leather",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "wants": [
+                        {
+                            "item": "minecraft:rabbit_hide",
+                            "quantity": 1
+                        }
+                    ],
+                    "gives": [
+                        {
+                            "item": "minecraft:leather",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

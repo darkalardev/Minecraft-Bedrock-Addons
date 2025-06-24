@@ -1,0 +1,38 @@
+{
+	"format_version" : "1.10.0",
+	"animation_controllers" : {
+		"controller.animation.shortzombie.move" : {
+			"states" : {
+				"move" : {
+					"animations" : [ 
+						{
+							"move" : "query.modified_move_speed" 
+						}
+					]
+				}
+			}
+			
+		},
+		"controller.animation.shortzombie.attack" : {
+			"states" : {
+				"default" : {
+					"transitions": [
+						{
+							"attack" : "variable.attack>0"
+						}
+					]
+				},
+				"attack" : {
+					"animations": [
+						"attack"
+					],
+					"transitions" : [
+						{
+							"default": "!query.is_delayed_attacking"
+						}
+					]
+				}
+			}
+		}
+	}
+}

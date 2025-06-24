@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "lostweapons:god_soul"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "lostweapons:fragment_of_god_soul"
+      }
+    },
+    "result": [
+      { "item": "lostweapons:god_soul" }
+    ]
+  }
+}

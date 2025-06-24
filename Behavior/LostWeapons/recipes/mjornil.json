@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "lostweapons:mjornil"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "HAH",
+      "HBH",
+      "HCH"
+    ],
+    "key": {
+      "H": {
+        "item": "lostweapons:god_soul"
+      },
+      "A": {
+        "item": "lostweapons:fragment_of_mjornil1"
+      },
+      "B": {
+        "item": "lostweapons:fragment_of_mjornil2"
+      },
+      "C": {
+        "item": "lostweapons:fragment_of_mjornil3"
+      }
+    },
+    "result": [
+      { "item": "lostweapons:mjornil" }
+    ]
+  }
+}

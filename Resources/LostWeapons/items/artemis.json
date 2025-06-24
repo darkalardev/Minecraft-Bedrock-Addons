@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lostweapons:artemis",
+      "category": "Equipment"
+    },
+
+    "components": {
+      "minecraft:icon": "artemis_standby",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "resource_pack_name": "DonWilly",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+      "gum_block": {
+      "textures": "textures/blocks/gum_block"
+    },
+      "candy":{
+        "textures": "textures/blocks/candy"
+      },
+      "apple_brick":{
+        "textures": "textures/blocks/apple_brick"
+      },
+      "apple_candy":{
+        "textures": "textures/blocks/apple_candy"
+      },
+      "chocolate_brick":{
+        "textures": "textures/blocks/chocolate_brick"
+      },
+      "pumpkin_candy":{
+        "textures": "textures/blocks/pumpkin_candy"
+      },
+      "pumpkin_brick":{
+        "textures": "textures/blocks/pumpkin_brick"
+      },
+      "strawberry_brick":{
+        "textures": "textures/blocks/strawberry_brick"
+      },
+      "strawberry_candy":{
+        "textures": "textures/blocks/strawberry_candy"
+      },
+      "chocolate_block":{
+        "textures": "textures/blocks/chocolate_block"
+      },
+      "whitechocolate_block":{
+        "textures": "textures/blocks/whitechocolate_block"
+      },
+      "whitechocolate_brick":{
+        "textures": "textures/blocks/whitechocolate_brick"
+      }
+  }
+}

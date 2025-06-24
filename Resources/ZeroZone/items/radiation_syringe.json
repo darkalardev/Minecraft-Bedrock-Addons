@@ -1,0 +1,14 @@
+{
+	"format_version": 1.1,
+	"minecraft:item": {
+		"description": {
+			"identifier": "zerozone:radiation_syringe",
+			"category": "Nature"
+		},
+		"components": {
+			"minecraft:icon": "radiation_syringe",
+			"minecraft:use_animation": "eat",
+			"minecraft:render_offsets": "apple"
+		}
+	}
+}

@@ -1,0 +1,52 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "gift_1" : {
+    "sound" : "fungus",
+    "textures" : {
+      "down" : "bot_gift_1",
+      "side" : "left_gift_1",
+      "up" : "top_gift_1"
+    }
+  },
+  "gift_2" : {
+    "sound" : "fungus",
+    "textures" : {
+      "down" : "bot_gift_2",
+      "side" : "left_gift_2",
+      "up" : "top_gift_2"
+    }
+  },
+  "gift_3" : {
+    "sound" : "fungus",
+    "textures" : {
+      "down" : "bot_gift_3",
+      "side" : "left_gift_3",
+      "up" : "top_gift_3"
+    }
+  },
+  "gift_4" : {
+    "sound" : "fungus",
+    "textures" : {
+      "down" : "bot_gift_4",
+      "side" : "left_gift_4",
+      "up" : "top_gift_4"
+    }
+  },
+  "candy_block" : {
+    "sound" : "fungus",
+    "textures" : {
+      "down" : "top_candy_block",
+      "side" : "Side_candy_block",
+      "up" : "top_candy_block"
+    }
+  },
+  "tree_besanta": {
+		"textures": "tree_besanta",
+		"sound": "fungus"
+	  }
+                                           
+}

@@ -1,0 +1,110 @@
+{
+	"resource_pack_name": "DonWilly",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"apple_lollipop": {
+			"textures": [
+				"textures/items/apple_lollipop"
+			]
+		},
+		"chocolate": {
+			"textures": [
+				"textures/items/chocolate"
+			]
+		},
+		"whitechocolate": {
+			"textures": [
+				"textures/items/whitechocolate"
+			]
+		},
+		"gum": {
+			"textures": [
+				"textures/items/gum"
+			]
+		},"pumpkin_lollipop": {
+			"textures": [
+				"textures/items/pumpkin_lollipop"
+			]
+		},
+		"strawberry_lollipop": {
+			"textures": [
+				"textures/items/strawberry_lollipop"
+			]
+		},
+		"caramelo1": {
+			"textures": [
+				"textures/items/Caramelo1"
+			]
+		},
+		"caramelo2": {
+			"textures": [
+				"textures/items/Caramelo2"
+			]
+		},
+		"caramelo3": {
+			"textures": [
+				"textures/items/Caramelo3"
+			]
+		},
+		"caramelo4": {
+			"textures": [
+				"textures/items/Caramelo4"
+			]
+		},
+		"caramelo5": {
+			"textures": [
+				"textures/items/Caramelo5"
+			]
+		},
+		"caramelo6": {
+			"textures": [
+				"textures/items/Caramelo6"
+			]
+		},
+		"candy_sword_1": {
+			"textures": [
+				"textures/items/Candy_Sword_1"
+			]
+		},
+		"candy_sword_2": {
+			"textures": [
+				"textures/items/Candy_Sword_2"
+			]
+		},
+		"candy_sword_3": {
+			"textures": [
+				"textures/items/Candy_Sword_3"
+			]
+		},
+		"candy_sword_4": {
+			"textures": [
+				"textures/items/Candy_Sword_4"
+			]
+		},
+		"chocolate_sword_1": {
+			"textures": [
+				"textures/items/Chocolate_Sword_1"
+			]
+		},
+		"chocolate_sword_2": {
+			"textures": [
+				"textures/items/Chocolate_Sword_2"
+			]
+		},
+		"frasco": {
+			"textures": [
+				"textures/items/Frasco"
+			]
+		},
+		"frasco_chocolate": {
+			"textures": [
+				"textures/items/FrascoConChocolate"
+			]
+		},
+		"frasco_chocolateblanco": {
+			"textures": [
+				"textures/items/FrascoConChocolateB"
+			]
+		}
+	}
+}

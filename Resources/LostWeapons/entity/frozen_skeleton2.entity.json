@@ -1,0 +1,30 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "lostweapons:frozen_skeleton2",
+      "materials": { "default": "bee" },
+      "textures": {
+        "default": "textures/entity/frozen_skeleton_2"
+      },
+      "geometry": {
+        "default": "geometry.frozen_skeleton"
+      },
+      "scripts": {
+				"animate": ["walk_controller", "attack_controller"]
+			},
+      "animations": {
+				"walk_controller": "controller.animation.frozen_skeleton.walk",
+				"attack_controller": "controller.animation.frozen_skeleton.attack",
+				"attack": "animation.frozen_skeleton.attack",
+				"idle": "animation.frozen_skeleton.idle",
+				"move": "animation.frozen_skeleton.move"
+			},
+      "render_controllers": [ "controller.render.frozen_skeleton" ],
+      "spawn_egg": {
+				"base_color": "#7A9CDD",
+				"overlay_color": "#4D70B4"
+			}
+    }
+  }
+}

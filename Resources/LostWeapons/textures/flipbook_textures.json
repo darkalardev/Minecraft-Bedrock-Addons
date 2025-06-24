@@ -1,0 +1,15 @@
+// Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+[
+  {
+    "flipbook_texture": "textures/blocks/frozen_stone",
+    "atlas_tile": "frozen_stone",
+    "ticks_per_frame": 4,
+    "frames": [0, 0, 0, 0, 0, 0, 1, 2, 3, 4]
+  },
+  {
+    "flipbook_texture": "textures/blocks/frozen_deepslate",
+    "atlas_tile": "frozen_deepslate",
+    "ticks_per_frame": 4,
+    "frames": [0, 0, 0, 0, 0, 0, 1, 2, 3, 4]
+  }
+]

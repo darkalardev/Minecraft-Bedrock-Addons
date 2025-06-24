@@ -1,0 +1,10 @@
+tile.besanta:gift_1.name=Presente §6Be Santa
+tile.besanta:gift_2.name=Presente §6Be Santa
+tile.besanta:gift_3.name=Presente §6Be Santa
+tile.besanta:gift_4.name=Presente §6Be Santa
+tile.besanta:candy_block.name=Bloco de doces §6Be Santa
+tile.elves:christmas_tree.name=Arvore de Natal §6Be Santa
+entity.besanta:elf.name=Elfo §6Be Santa
+item.spawn_egg.entity.besanta:elf.name=Spawn Elfo §6Be Santa
+entity.besanta:sled.name=Trenó §6Be Santa
+item.spawn_egg.entity.besanta:sled.name=Spawn trenó §6Be Santa

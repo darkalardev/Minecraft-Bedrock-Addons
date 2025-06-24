@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "elves:soul_wood"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A"
+    ],
+    "key": {
+      "A": {
+        "item": "elves:soul_log"
+      }
+    },
+    "result": [
+      { "item": "elves:soul_wood", "count": "4" }
+    ]
+  }
+}

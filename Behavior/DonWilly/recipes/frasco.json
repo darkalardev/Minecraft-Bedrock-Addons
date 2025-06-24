@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "donwilly:frasco"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "BB",
+      "BB"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:glass"
+      }
+    },
+    "result": [
+      { "item": "donwilly:frasco" }
+    ]
+  }
+}

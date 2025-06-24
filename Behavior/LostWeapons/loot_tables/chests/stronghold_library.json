@@ -1,0 +1,90 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 10
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:book",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 100
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "name": "lostweapons:frozen_fragment_of_jupiter1"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "name": "lostweapons:frozen_fragment_of_frost3"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:paper",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 7
+              }
+            }
+          ],
+          "weight": 100
+        },
+        {
+          "type": "item",
+          "name": "minecraft:map",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:compass",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:book",
+          "weight": 60,
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

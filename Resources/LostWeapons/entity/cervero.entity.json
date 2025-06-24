@@ -1,0 +1,32 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "lostweapons:cervero",
+      "materials": { "default": "bee" },
+      "textures": {
+        "default": "textures/entity/cervero"
+      },
+      "geometry": {
+        "default": "geometry.cervero"
+      },
+      "scripts": {
+				"animate": ["walk_controller", "attack_controller"]
+			},
+      "animations": {
+				"walk_controller": "controller.animation.cervero.walk",
+				"attack_controller": "controller.animation.cervero.attack",
+				"attack": "animation.cervero.attack",
+				"idle": "animation.cervero.idle",
+				"move": "animation.cervero.move"
+			},
+      "render_controllers": [ "controller.render.lostweapons" ],
+      "spawn_egg": {
+				"base_color": "#B71207",
+				"overlay_color": "#F56F27"
+			}
+    }
+  }
+}
+
+

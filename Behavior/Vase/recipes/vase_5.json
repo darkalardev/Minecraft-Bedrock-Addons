@@ -1,0 +1,29 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+	  "description": {
+	  "identifier": "vase:vase5"
+	  },
+  
+	  
+	  "tags": [ "crafting_table" ],
+	  "pattern": [
+		"ABA",
+		"A A",
+		"AAA"
+	  ],
+	  "key": {
+		"A": {
+		  "item": "minecraft:glass"
+		},
+		"B": {
+		  "item": "minecraft:planks",
+		  "data": 5
+		}
+	  },
+	  "result": [
+		{ "item": "vase:vase" }
+	  ]
+	}
+  }
+  

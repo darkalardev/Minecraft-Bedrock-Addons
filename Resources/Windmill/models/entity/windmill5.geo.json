@@ -1,0 +1,137 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.windmill_5",
+				"texture_width": 256,
+				"texture_height": 256,
+				"visible_bounds_width": 30,
+				"visible_bounds_height": 29,
+				"visible_bounds_offset": [0, 0, 0]
+			},
+			"bones": [
+				{
+					"name": "windmill",
+					"pivot": [-1, 3, -14],
+					"cubes": [
+						{"origin": [-5, -1, -45], "size": [9, 9, 53], "uv": [0, 0]},
+						{"origin": [-38, 98, -42], "size": [77, 3, 31], "pivot": [-1, 4, -27], "rotation": [0, 0, 22], "uv": [0, 0]},
+						{"origin": [-38, 98, -42], "size": [77, 3, 31], "pivot": [-1, 4, -27], "rotation": [0, 0, 67], "uv": [0, 0]},
+						{"origin": [-38, 98, -42], "size": [77, 3, 31], "pivot": [-1, 4, -27], "rotation": [0, 0, 112], "uv": [0, 0]},
+						{"origin": [-38, 98, -42], "size": [77, 3, 31], "pivot": [-1, 4, -27], "rotation": [0, 0, 157], "uv": [0, 0]},
+						{"origin": [-38, 98, -42], "size": [77, 3, 31], "pivot": [-1, 4, -27], "rotation": [0, 0, -158], "uv": [0, 0]},
+						{"origin": [-38, 98, -42], "size": [77, 3, 31], "pivot": [-1, 4, -27], "rotation": [0, 0, -113], "uv": [0, 0]},
+						{"origin": [-38, 98, -42], "size": [77, 3, 31], "pivot": [-1, 4, -27], "rotation": [0, 0, -68], "uv": [0, 0]},
+						{"origin": [-38, 98, -42], "size": [77, 3, 31], "pivot": [-1, 4, -27], "rotation": [0, 0, -23], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "alafinal",
+					"parent": "windmill",
+					"pivot": [-1, 4, -14]
+				},
+				{
+					"name": "alas2",
+					"parent": "alafinal",
+					"pivot": [-1, 232, -14],
+					"cubes": [
+						{"origin": [-134, -18, -42], "size": [110, 3, 31], "pivot": [0, -16, -27], "rotation": [0, 0, 90], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "alas3",
+					"parent": "alafinal",
+					"pivot": [0, -225, -14],
+					"rotation": [0, 0, -180],
+					"cubes": [
+						{"origin": [-133, -475, -42], "size": [110, 3, 31], "pivot": [1, -473, -27], "rotation": [0, 0, 90], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "alas4",
+					"parent": "alafinal",
+					"pivot": [-229, 3, -14],
+					"rotation": [0, 0, -90],
+					"cubes": [
+						{"origin": [-362, -247, -42], "size": [110, 3, 31], "pivot": [-228, -245, -27], "rotation": [0, 0, 90], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "alas5",
+					"parent": "alafinal",
+					"pivot": [228, 4, -14],
+					"rotation": [0, 0, 90],
+					"cubes": [
+						{"origin": [95, -246, -42], "size": [110, 3, 31], "pivot": [229, -244, -27], "rotation": [0, 0, 90], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "alafinal2",
+					"parent": "windmill",
+					"pivot": [-1, 4, -14],
+					"rotation": [0, 0, 45]
+				},
+				{
+					"name": "alas6",
+					"parent": "alafinal2",
+					"pivot": [-1, 232, -14],
+					"cubes": [
+						{"origin": [-134, -18, -42], "size": [110, 3, 31], "pivot": [0, -16, -27], "rotation": [0, 0, 90], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "bone",
+					"parent": "alas6",
+					"pivot": [1.12132, 225.63604, -14],
+					"rotation": [0, 0, 5]
+				},
+				{
+					"name": "alas7",
+					"parent": "alafinal2",
+					"pivot": [0, -225, -14],
+					"rotation": [0, 0, -180],
+					"cubes": [
+						{"origin": [-133, -475, -42], "size": [110, 3, 31], "pivot": [1, -473, -27], "rotation": [0, 0, 90], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "bone2",
+					"parent": "alas7",
+					"pivot": [3.53553, -232.77817, -14],
+					"rotation": [0, 0, 5]
+				},
+				{
+					"name": "alas8",
+					"parent": "alafinal2",
+					"pivot": [-229, 3, -14],
+					"rotation": [0, 0, -90],
+					"cubes": [
+						{"origin": [-362, -247, -42], "size": [110, 3, 31], "pivot": [-228, -245, -27], "rotation": [0, 0, 90], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "bone3",
+					"parent": "alas8",
+					"pivot": [-225.46447, -4.77817, -15],
+					"rotation": [0, 0, 5]
+				},
+				{
+					"name": "alas9",
+					"parent": "alafinal2",
+					"pivot": [228, 4, -14],
+					"rotation": [0, 0, 90],
+					"cubes": [
+						{"origin": [95, -246, -42], "size": [110, 3, 31], "pivot": [229, -244, -27], "rotation": [0, 0, 90], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "bone4",
+					"parent": "alas9",
+					"pivot": [229.41421, -3.07107, -14],
+					"rotation": [0, 0, 5]
+				}
+			]
+		}
+	]
+}

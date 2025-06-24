@@ -1,0 +1,37 @@
+{
+   "entity_sounds": {
+      
+    "entities": {
+         "lastruins:samurai" : {
+            "events" : {
+               "ambient" : "mob.samurai.say",
+               "death" : "mob.samurai.death",
+               "hurt" : "mob.samurai.hurt",
+               "step" : {
+                  "pitch" : 1.0,
+                  "sound" : "mob.zombie.step",
+                  "volume" : 0.450
+               }
+            },
+            "pitch" : [ 0.80, 1.20 ],
+            "volume" : 1.0
+         },
+         "lastruins:old_samurai" : {
+            "events" : {
+               "ambient" : "mob.samurai.say",
+               "death" : "mob.samurai.death",
+               "hurt" : "mob.samurai.hurt",
+               "step" : {
+                  "pitch" : 1.0,
+                  "sound" : "mob.zombie.step",
+                  "volume" : 0.450
+               }
+            },
+            "pitch" : [ 0.80, 1.20 ],
+            "volume" : 1.0
+         }
+         
+      } 
+   
+}
+}

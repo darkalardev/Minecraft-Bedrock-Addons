@@ -1,0 +1,28 @@
+// Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+	  "description": {
+	  "identifier": "definitivecampfire:log"
+	  },
+	  
+	  "tags": [ "crafting_table" ],
+	  "pattern": [
+		"#",
+		"#"
+	  ],
+	  "key": {
+		"#": {
+		  "item": "minecraft:log",
+			  "data": 0
+		}
+	  },
+	  "result": {
+		"item": "minecraft:spawn_egg",
+		  "data": "query.get_actor_info_id('definitivecampfire:log')"
+  
+	  }
+		
+	}
+	
+  }

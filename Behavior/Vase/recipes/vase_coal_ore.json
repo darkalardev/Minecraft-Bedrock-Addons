@@ -1,0 +1,26 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+	  "description": {
+	  "identifier": "vase:vase_coal_ore"
+	  },
+  
+	  
+	  "tags": [ "crafting_table" ],
+	  "pattern": [
+		"AB"
+	  ],
+	  "key": {
+		"A": {
+		  "item": "vase:vase"
+		},
+		"B": {
+		  "item": "minecraft:coal_ore"
+		}
+	  },
+	  "result": [
+		{ "item": "vase:vase_coal_ore" }
+	  ]
+	}
+  }
+  

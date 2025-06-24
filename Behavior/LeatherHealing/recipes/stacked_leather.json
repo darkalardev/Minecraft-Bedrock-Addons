@@ -1,0 +1,25 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "leatherhealing:stacked_leather"
+		},
+		"tags": [ "crafting_table" ],
+		"pattern": [
+			"AAA",
+			"AAA",
+			"AAA"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:leather"
+			}
+		},
+		"result": [
+			{
+				"item": "leatherhealing:stacked_leather",
+				"count": 1
+			}
+		]
+	}
+}

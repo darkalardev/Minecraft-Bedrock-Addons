@@ -1,0 +1,23 @@
+{
+   "entity_sounds": {
+      
+    "entities": {
+         "lostweapons:ymir" : {
+            "events" : {
+               "ambient" : "mob.ymir.say",
+               "death" : "mob.ymir.death",
+               "hurt" : "mob.ymir.hurt",
+               "step" : {
+                  "pitch" : 1.0,
+                  "sound" : "step.snow",
+                  "volume" : 0.450
+               }
+            },
+            "pitch" : [ 0.80, 1.20 ],
+            "volume" : 1.0
+         }
+         
+      } 
+   
+}
+}

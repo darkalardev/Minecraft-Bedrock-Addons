@@ -1,0 +1,123 @@
+{
+  "resource_pack_name": "Elves",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "blood_log_side" : {
+      "textures" : "textures/blocks/elves_stem_violet"
+   },
+   "blood_log_top" : {
+      "textures" : "textures/blocks/elves_stem_violet_top"
+   },
+   "elves_grass_bottom" : {
+    "textures" : "textures/blocks/elves_dirt"
+    },
+   "elves_grass_side" : {
+     "textures" : "textures/blocks/elves_grass_side"
+     },
+   "elves_grass_top" : {
+      "textures" : "textures/blocks/elves_grass_top"
+      },
+      "soul_log_side" : {
+        "textures" : "textures/blocks/elves_stem_white"
+     },
+     "soul_log_top" : {
+        "textures" : "textures/blocks/elves_stem_white_top"
+     },
+     "soul_leaves" : {
+        "textures" : "textures/blocks/elves_leaves_white"
+     },
+     "soul_leaves2" : {
+        "textures" : "textures/blocks/leaves_soul_new"
+     },
+     "blood_leaves" : {
+        "textures" : "textures/blocks/elves_leaves_violet"
+     },
+     "soul_log_stripped_side" : {
+      "textures" : "textures/blocks/elves_stripped_white_stem"
+   },
+    "soul_log_stripped_top" : {
+        "textures" : "textures/blocks/elves_stripped_white_stem_top"
+    },
+      "blood_log_stripped_side" : {
+        "textures" : "textures/blocks/elves_stripped_violet_stem"
+      },
+      "blood_log_stripped_top" : {
+          "textures" : "textures/blocks/elves_stripped_violet_stem_top"
+      },
+      "blood_wood" : {
+          "textures" : "textures/blocks/elves_planks_violet"
+      },
+      "soul_wood" : {
+          "textures" : "textures/blocks/elves_planks_white"
+      },
+      "elves_dirt" : {
+          "textures" : "textures/blocks/elves_dirt"
+      },
+      "elves_cesped" : {
+          "textures" : "textures/blocks/elves_grass"
+      },
+      "elves_cesped2" : {
+          "textures" : "textures/blocks/elves_grass2"
+      },
+      "elves_carpet" : {
+          "textures" : "textures/blocks/elves_carpet"
+      },
+      "elves_king_carpet" : {
+          "textures" : "textures/blocks/elves_king_carpet"
+      },
+      "soga" : {
+          "textures" : "textures/blocks/rope"
+      },
+      "elves_linterna" : {
+          "textures" : "textures/blocks/elves_linterna"
+      },
+      "elves_light_soul" : {
+          "textures" : "textures/blocks/blood_rose"
+      },
+      "elves_light_blood" : {
+          "textures" : "textures/blocks/blood_mushroom"
+      },
+      "elves_liana1" : {
+          "textures" : "textures/blocks/blood_vines"
+      },
+      "elves_liana2" : {
+          "textures" : "textures/blocks/blood_vines2"
+      },
+      "elves_liana3" : {
+          "textures" : "textures/blocks/soul_vines"
+      },
+      "elves_liana4" : {
+          "textures" : "textures/blocks/soul_vines2"
+      },
+      "elves_liana5" : {
+          "textures" : "textures/blocks/soul_vines3"
+      },
+      "elves_liana6" : {
+          "textures" : "textures/blocks/soul_vines4"
+      },
+      "elf_bread" : {
+          "textures" : "textures/blocks/elf_bread"
+      },
+      "elf_bread_base" : {
+          "textures" : "textures/blocks/elf_bread_base"
+      },
+      "fairy_nest_bottom" : {
+          "textures" : "textures/blocks/fairy_nest_bottom"
+      },
+      "fairy_nest_side" : {
+          "textures" : "textures/blocks/fairy_nest_side"
+      },
+      "fairy_nest_front_honey" : {
+          "textures" : "textures/blocks/fairy_nest_front_honey"
+      },
+      "fairy_nest_front" : {
+          "textures" : "textures/blocks/fairy_nest_front"
+      },
+      "fairy_nest_top" : {
+          "textures" : "textures/blocks/fairy_nest_top"
+      }
+
+  }
+}

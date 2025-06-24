@@ -1,0 +1,24 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+
+  "lostweapons:frozen_stone": {
+    "textures": "frozen_stone",
+    "sound": "stone"
+  },
+  "lostweapons:hot_stone": {
+    "textures": "hot_stone",
+    "sound": "nether_wart"
+  },
+  "lostweapons:frozen_deepslate": {
+    "textures": "frozen_deepslate",
+    "sound": "stone"
+  },
+            "lostweapons_cesped": {
+              "textures": "lostweapons_cesped",
+              "sound": "dig.glass"
+              }
+}

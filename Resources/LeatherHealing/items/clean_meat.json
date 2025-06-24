@@ -1,0 +1,16 @@
+// Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "leatherhealing:clean_meat",
+      "category": "Nature"
+    },
+
+    "components": {
+      "minecraft:icon": "clean_meat",
+      "minecraft:use_animation": "eat",
+      "minecraft:render_offsets": "cookie"
+    }
+  }
+}

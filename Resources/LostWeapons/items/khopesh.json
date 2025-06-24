@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lostweapons:khopesh",
+      "category": "Equipment"
+    },
+
+    "components": {
+      "minecraft:icon": "khopesh",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

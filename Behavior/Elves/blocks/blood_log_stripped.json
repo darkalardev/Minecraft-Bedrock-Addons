@@ -1,0 +1,18 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:block": {
+    "description": {
+      "identifier": "elves:blood_log_stripped"
+    },
+    "components": {
+      "minecraft:creative_category": {
+        "category": "Construction"
+      },
+      "minecraft:destroy_time": 0.5,
+      "minecraft:friction": 0.6,
+      "minecraft:map_color": "#744410",
+      "minecraft:block_light_absorption": 0.0,
+      "minecraft:block_light_emission": 0.0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "§4Creator: §6@DarkalarDev",
+       "name": "Definitive Campfire §4by Darkalar",
+       "uuid": "e22973bc-26d3-449f-b051-8b1155bcba21", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creator: §6@DarkalarDev",
+           "type": "data",
+           "uuid": "c41db2bd-1d54-4954-8b05-55d7badd7734", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

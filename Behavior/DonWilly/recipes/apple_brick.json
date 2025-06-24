@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "donwilly:apple_brick"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "AA",
+      "AA"
+    ],
+    "key": {
+      "A": {
+        "item": "donwilly:apple_lollipop"
+      }
+    },
+    "result": [
+      { "item": "donwilly:apple_brick", "count": "4" }
+    ]
+  }
+}

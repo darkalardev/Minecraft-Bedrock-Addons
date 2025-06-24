@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lostweapons:weapon_of_gods",
+      "category": "Equipment"
+    },
+
+    "components": {
+      "minecraft:icon": "weapon_of_gods",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

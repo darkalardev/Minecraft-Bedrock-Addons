@@ -1,0 +1,14 @@
+{
+    "format_version": "1.13.0",
+    "minecraft:structure_template_feature": {
+        "description": {
+            "identifier": "minecraft:frozen_rock_mcstructure"
+        },
+        "structure_name": "mystructure:frozen_rock",
+        "adjustment_radius": 8,
+        "facing_direction": "random",
+        "constraints": {
+            "grounded": {}
+        }
+    }
+}

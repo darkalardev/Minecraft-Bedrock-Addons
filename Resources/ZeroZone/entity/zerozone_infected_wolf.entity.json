@@ -1,0 +1,29 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "zerozone:infected_wolf",
+      "materials": { "default": "entity" },
+      "textures": {
+        "default": "textures/entity/infected_wolf"
+      },
+      "geometry": {
+        "default": "geometry.infected_wolf"
+      },
+      "animations": {
+        "idle": "animation.infected_wolf.idle",
+        "attack": "animation.infected_wolf.attack",
+		    "move": "animation.infected_wolf.move"
+      },
+      "animation_controllers": [
+        { "idle": "controller.animation.infected_wolf.idle" },
+	  	{ "attack": "controller.animation.infected_wolf.attack" }
+      ],
+      "render_controllers": [ "controller.render.zerozone" ],
+      "spawn_egg": {
+        "texture": "spawn_egg",
+        "texture_index": 18
+      }
+    }
+  }
+}

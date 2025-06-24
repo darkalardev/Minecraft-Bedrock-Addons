@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lostweapons:shahur",
+      "category": "Equipment"
+    },
+
+    "components": {
+      "minecraft:icon": "shahur",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

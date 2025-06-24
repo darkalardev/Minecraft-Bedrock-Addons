@@ -1,0 +1,219 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"vase:vase_cobblestone": {
+		"textures": "vase_cobblestone",
+		"sound": "glass"
+	},
+	"vase:vase": {
+		"textures": "vase",
+		"sound": "glass"
+	},
+	"vase:vase_crimsom": {
+		"textures": "vase_crimsom",
+		"sound": "glass"
+	},
+	"vase:vase_warpedstem": {
+		"textures": "vase_warpedstem",
+		"sound": "glass"
+	},
+	"vase:vase_oak": {
+		"textures": "vase_oak",
+		"sound": "glass"
+	},
+	"vase:vase_spruce": {
+		"textures": "vase_spruce",
+		"sound": "glass"
+	},
+	"vase:vase_birch": {
+		"textures": "vase_birch",
+		"sound": "glass"
+	},
+	"vase:vase_jungle": {
+		"textures": "vase_jugle",
+		"sound": "glass"
+	},
+	"vase:vase_acacia": {
+		"textures": "vase_acacia",
+		"sound": "glass"
+	},
+	"vase:vase_darkoak": {
+		"textures": "vase_darkoak",
+		"sound": "glass"
+	},
+	"vase:vase_crimson_planks": {
+		"textures": "vase_crimson_planks",
+		"sound": "glass"
+	},
+	"vase:vase_warped_planks": {
+		"textures": "vase_warped_planks",
+		"sound": "glass"
+	},
+	"vase:vase_oak_planks": {
+		"textures": "vase_oak_planks",
+		"sound": "glass"
+	},
+	"vase:vase_spruce_planks": {
+		"textures": "vase_spruce_planks",
+		"sound": "glass"
+	},
+	"vase:vase_birch_planks": {
+		"textures": "vase_birch_planks",
+		"sound": "glass"
+	},
+	"vase:vase_jungle_planks": {
+		"textures": "vase_jungle_planks",
+		"sound": "glass"
+	},
+	"vase:vase_darkoak_planks": {
+		"textures": "vase_darkoak_planks",
+		"sound": "glass"
+	},
+	"vase:vase_acacia_planks": {
+		"textures": "vase_acacia_planks",
+		"sound": "glass"
+	},
+	"vase:vase_barrel": {
+		"textures": "vase_barrel",
+		"sound": "glass"
+	},
+	"vase:vase_bookshelf": {
+		"textures": "vase_bookshelf",
+		"sound": "glass"
+	},
+	"vase:vase_brick_block": {
+		"textures": "vase_brick_block",
+		"sound": "glass"
+	},
+	"vase:vase_cartography_table": {
+		"textures": "vase_cartography_table",
+		"sound": "glass"
+	},
+	"vase:vase_crafting_table": {
+		"textures": "vase_crafting_table",
+		"sound": "glass"
+	},
+	"vase:vase_chest": {
+		"textures": "vase_chest",
+		"sound": "glass"
+	},
+	"vase:vase_amethyst_block": {
+		"textures": "vase_amethyst_block",
+		"sound": "glass"
+	},
+	"vase:vase_copper_block": {
+		"textures": "vase_copper_block",
+		"sound": "glass"
+	},
+	"vase:vase_exposed_copper": {
+		"textures": "vase_exposed_copper",
+		"sound": "glass"
+	},
+	"vase:vase_weathered_copper": {
+		"textures": "vase_weathered_copper",
+		"sound": "glass"
+	},
+	"vase:vase_oxidized_copper": {
+		"textures": "vase_oxidized_copper",
+		"sound": "glass"
+	},
+	"vase:vase_andesite_smooth": {
+		"textures": "vase_andesite_smooth",
+		"sound": "glass"
+	},
+	"vase:vase_diorite_smooth": {
+		"textures": "vase_diorite_smooth",
+		"sound": "glass"
+	},
+	"vase:vase_diorite": {
+		"textures": "vase_diorite",
+		"sound": "glass"
+	},
+	"vase:vase_granite_smooth": {
+		"textures": "vase_granite_smooth",
+		"sound": "glass"
+	},
+	"vase:vase_granite": {
+		"textures": "vase_granite",
+		"sound": "glass"
+	},
+	"vase:vase_stone": {
+		"textures": "vase_stone",
+		"sound": "glass"
+	},
+	"vase:vase_andesite": {
+		"textures": "vase_andesite",
+		"sound": "glass"
+	},
+	"vase:vase_ancient_debris": {
+		"textures": "vase_ancient_debris",
+		"sound": "glass"
+	},
+	"vase:vase_netherite_block": {
+		"textures": "vase_netherite_block",
+		"sound": "glass"
+	},
+	"vase:vase_lapis_block": {
+		"textures": "vase_lapis_block",
+		"sound": "glass"
+	},
+	"vase:vase_iron_block": {
+		"textures": "vase_iron_block",
+		"sound": "glass"
+	},
+	"vase:vase_gold_block": {
+		"textures": "vase_gold_block",
+		"sound": "glass"
+	},
+	"vase:vase_emerald_block": {
+		"textures": "vase_emerald_block",
+		"sound": "glass"
+	},
+	"vase:vase_diamond_block": {
+		"textures": "vase_diamond_block",
+		"sound": "glass"
+	},
+	"vase:vase_coal_block": {
+		"textures": "vase_coal_block",
+		"sound": "glass"
+	},
+	"vase:vase_redstone_block": {
+		"textures": "vase_redstone_block",
+		"sound": "glass"
+	},
+	"vase:vase_raw_iron_block": {
+		"textures": "vase_raw_iron_block",
+		"sound": "glass"
+	},
+	"vase:vase_raw_gold_block": {
+		"textures": "vase_raw_gold_block",
+		"sound": "glass"
+	},
+	"vase:vase_raw_copper_block": {
+		"textures": "vase_raw_copper_block",
+		"sound": "glass"
+	},
+	"vase:vase_blackstone": {
+		"textures": "vase_blackstone",
+		"sound": "glass"
+	},
+	"vase:vase_basalt": {
+		"textures": "vase_basalt",
+		"sound": "glass"
+	},
+	"vase:vase_coal_ore": {
+		"textures": "vase_coal_ore",
+		"sound": "glass"
+	},
+	"vase:vase_deepslate_copper_ore": {
+		"textures": "vase_deepslate_copper_ore",
+		"sound": "glass"
+	},
+	"vase:vase_copper_ore": {
+		"textures": "vase_copper_ore",
+		"sound": "glass"
+	}
+}

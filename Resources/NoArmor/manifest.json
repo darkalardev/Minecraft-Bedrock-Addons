@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "§4Creator: §6@DarkalarDev",
+       "name": "No Armor §4by Darkalar",
+       "uuid": "08764af3-57a4-4e93-8700-913bfd6afb0f", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creator: §6@DarkalarDev",
+           "type": "resources",
+           "uuid": "c6cbc7cf-113a-4fa3-8813-0429cec98256", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

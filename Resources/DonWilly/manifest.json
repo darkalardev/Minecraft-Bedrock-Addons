@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "§4Creators: §6@DarkalarDev §2@SovietLian",
+       "name": "Don Willy §4by Darkalar",
+       "uuid": "9e91675f-11d3-43b3-b5cb-2fab0a168722", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creators: §6@DarkalarDev §2@SovietLian",
+           "type": "resources",
+           "uuid": "92172d53-762b-473f-be3a-5cd634e35934", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

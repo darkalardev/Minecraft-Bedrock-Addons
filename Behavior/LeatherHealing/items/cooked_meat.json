@@ -1,0 +1,18 @@
+// Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "leatherhealing:cooked_meat",
+      "category": "Nature"
+    },
+
+    "components": {
+        "minecraft:use_duration": 32,
+        "minecraft:food": {
+          "nutrition": 6,
+          "saturation_modifier": "normal"
+        }
+      }
+    }
+  }

@@ -1,0 +1,22 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "besanta:sled",
+      "materials": {
+        "default": "entity"
+      },
+      "textures": {
+        "default": "textures/entity/sled"
+      },
+      "geometry": {
+        "default": "geometry.besantasled"
+      },
+      "render_controllers": [ "controller.render.besanta_sled" ],
+      "spawn_egg": {
+				"base_color": "#D33633",
+				"overlay_color": "#F8F7E2"
+			}
+  }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "lostweapons:neptune"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "HAH",
+      "HBH",
+      "HCH"
+    ],
+    "key": {
+      "H": {
+        "item": "lostweapons:god_soul"
+      },
+      "A": {
+        "item": "lostweapons:frozen_fragment_of_neptune1"
+      },
+      "B": {
+        "item": "lostweapons:frozen_fragment_of_neptune2"
+      },
+      "C": {
+        "item": "lostweapons:frozen_fragment_of_neptune3"
+      }
+    },
+    "result": [
+      { "item": "lostweapons:neptune" }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "donwilly:pumpkin_lollipop"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A",
+      "B"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:pumpkin"
+      },
+      "B": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": [
+      { "item": "donwilly:pumpkin_lollipop" }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+   "format_version" : "1.14.0",
+   "sound_definitions" : {
+      "mob.samurai.death" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "hostile",
+         "sounds" : [ "sounds/samurai" ]
+      },
+      "mob.samurai.hurt" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "hostile",
+         "sounds" : [ "sounds/samurai", "sounds/samurai" ]
+      },
+      "mob.samurai.say" : {
+         "__use_legacy_max_distance" : "true",
+         "category" : "hostile",
+         "sounds" : [
+            "sounds/samurai",
+            {
+               "load_on_low_memory" : true,
+               "name" : "sounds/samurai"
+            },
+            "sounds/samurai"
+         ]
+      }
+   }
+}

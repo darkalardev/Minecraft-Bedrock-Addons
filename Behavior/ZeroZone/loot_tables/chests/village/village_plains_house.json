@@ -1,0 +1,417 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 3,
+        "max": 8
+      },
+      "entries": [
+        {
+          "type": "item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "name": "minecraft:gold_nugget"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "name": "zerozone:can_of_soda_12"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "name": "zerozone:water_bottle"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "name": "zerozone:health_pills"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "name": "zerozone:adrenaline_syringe"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "name": "zerozone:radiation_syringe"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "name": "zerozone:health_syringe"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "name": "zerozone:purifying_pills"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "name": "zerozone:can_of_soda_1"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "name": "zerozone:can_of_soda_2"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "name": "zerozone:can_of_soda_3"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "name": "zerozone:can_of_soda_4"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "name": "zerozone:can_of_soda_5"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "name": "zerozone:can_of_soda_6"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "name": "zerozone:can_of_soda_7"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "name": "zerozone:can_of_soda_8"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "name": "zerozone:can_of_soda_9"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "name": "zerozone:can_of_soda_10"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "name": "zerozone:can_of_soda_11"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "name": "zerozone:jeringa"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "name": "zerozone:botiquin"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "name": "zerozone:anti_radiation_pills"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "name": "minecraft:yellow_flower"
+        },
+        {
+          "type": "item",
+          "functions": [
+            {
+              "function": "minecraft:set_data",
+              "data": 0
+            }
+          ],
+          "name": "minecraft:red_flower"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 7
+              }
+            }
+          ],
+          "name": "minecraft:potato"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "name": "minecraft:bread"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "name": "minecraft:apple"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:book"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:feather"
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "name": "minecraft:emerald"
+        },
+        {
+          "type": "item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_data",
+              "data": 0
+            }
+          ],
+          "name": "minecraft:sapling"
+        }
+      ]
+    }
+  ]
+}

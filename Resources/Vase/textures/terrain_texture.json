@@ -1,0 +1,167 @@
+{
+	"resource_pack_name": "Ragthor",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+	  "vase_cobblestone": {
+		"textures": "textures/blocks/vase_cobblestone"
+	  },
+	  "vase": {
+		"textures": "textures/blocks/vase"
+	  },
+	  "vase_crimsom": {
+		"textures": "textures/blocks/vase_crimsom"
+	  },
+	  "vase_warpedstem": {
+		"textures": "textures/blocks/vase_warpedstem"
+	  },
+	  "vase_oak": {
+		"textures": "textures/blocks/vase_oak"
+	  },
+	  "vase_spruce": {
+		"textures": "textures/blocks/vase_spruce"
+	  },
+	  "vase_birch": {
+		"textures": "textures/blocks/vase_birch"
+	  },
+	  "vase_jungle": {
+		"textures": "textures/blocks/vase_jungle"
+	  },
+	  "vase_acacia": {
+		"textures": "textures/blocks/vase_acacia"
+	  },
+	  "vase_darkoak": {
+		"textures": "textures/blocks/vase_darkoak"
+	  },
+	  "vase_acacia_planks": {
+		"textures": "textures/blocks/vase_acacia_planks"
+	  },
+	  "vase_jungle_planks": {
+		"textures": "textures/blocks/vase_jungle_planks"
+	  },
+	  "vase_birch_planks": {
+		"textures": "textures/blocks/vase_birch_planks"
+	  },
+	  "vase_spruce_planks": {
+		"textures": "textures/blocks/vase_spruce_planks"
+	  },
+	  "vase_oak_planks": {
+		"textures": "textures/blocks/vase_oak_planks"
+	  },
+	  "vase_warped_planks": {
+		"textures": "textures/blocks/vase_warped_planks"
+	  },
+	  "vase_crimson_planks": {
+		"textures": "textures/blocks/vase_crimson_planks"
+	  },
+	  "vase_darkoak_planks": {
+		"textures": "textures/blocks/vase_darkoak_planks"
+	  },
+	  "vase_barrel": {
+		"textures": "textures/blocks/vase_barrel"
+	  },
+	  "vase_bookshelf": {
+		"textures": "textures/blocks/vase_bookshelf"
+	  },
+	  "vase_brick_block": {
+		"textures": "textures/blocks/vase_brick_block"
+	  },
+	  "vase_cartography_table": {
+		"textures": "textures/blocks/vase_cartography_table"
+	  },
+	  "vase_crafting_table": {
+		"textures": "textures/blocks/crafting_table"
+	  },
+	  "vase_chest": {
+		"textures": "textures/blocks/vase_chest"
+	  },
+	  "vase_amethyst_block": {
+		"textures": "textures/blocks/vase_amethyst"
+	  },
+	  "vase_copper_block": {
+		"textures": "textures/blocks/vase_copper"
+	  },
+	  "vase_exposed_copper": {
+		"textures": "textures/blocks/vase_exposed_copper"
+	  },
+	  "vase_weathered_copper": {
+		"textures": "textures/blocks/vase_weathered_copper"
+	  },
+	  "vase_oxidized_copper": {
+		"textures": "textures/blocks/vase_oxidized_copper"
+	  },
+	  "vase_ancient_debris": {
+		"textures": "textures/blocks/vase_ancient_debris"
+	  },
+	  "vase_andesite": {
+		"textures": "textures/blocks/vase_andesite"
+	  },
+	  "vase_stone": {
+		"textures": "textures/blocks/vase_stone"
+	  },
+	  "vase_granite": {
+		"textures": "textures/blocks/vase_granite"
+	  },
+	  "vase_granite_smooth": {
+		"textures": "textures/blocks/vase_granite_smooth"
+	  },
+	  "vase_diorite": {
+		"textures": "textures/blocks/vase_diorite"
+	  },
+	  "vase_diorite_smooth": {
+		"textures": "textures/blocks/vase_diorite_smooth"
+	  },
+	  "vase_andesite_smooth": {
+		"textures": "textures/blocks/vase_andesite_smooth"
+	  },
+	  "vase_coal_block": {
+		"textures": "textures/blocks/vase_coal_block"
+	  },
+	  "vase_diamond_block": {
+		"textures": "textures/blocks/vase_diamond_block"
+	  },
+	  "vase_emerald_block": {
+		"textures": "textures/blocks/vase_emerald_block"
+	  },
+	  "vase_gold_block": {
+		"textures": "textures/blocks/vase_gold_block"
+	  },
+	  "vase_iron_block": {
+		"textures": "textures/blocks/vase_iron_block"
+	  },
+	  "vase_lapis_block": {
+		"textures": "textures/blocks/vase_lapis_block"
+	  },
+	  "vase_netherite_block": {
+		"textures": "textures/blocks/vase_netherite_block"
+	  },
+	  "vase_raw_copper_block": {
+		"textures": "textures/blocks/vase_raw_copper_block"
+	  },
+	  "vase_raw_gold_block": {
+		"textures": "textures/blocks/vase_raw_gold_block"
+	  },
+	  "vase_raw_iron_block": {
+		"textures": "textures/blocks/vase_raw_iron_block"
+	  },
+	  "vase_redstone_block": {
+		"textures": "textures/blocks/vase_redstone_block"
+	  },
+	  "vase_basalt": {
+		"textures": "textures/blocks/vase_basalt"
+	  },
+	  "vase_blackstone": {
+		"textures": "textures/blocks/vase_blackstone"
+	  },
+	  "vase_coal_ore": {
+		"textures": "textures/blocks/vase_coal_ore"
+	  },
+	  "vase_deepslate_copper_ore": {
+		"textures": "textures/blocks/vase_deepslate_copper_ore"
+	  },
+	  "vase_copper_ore": {
+		"textures": "textures/blocks/vase_copper_ore"
+	  }
+	}
+  }

@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "§4Creator: §6@DarkalarDev",
+       "name": "Definitive Foods §4by Darkalar",
+       "uuid": "56427026-6cb6-4575-aeed-03a3b5037f5e", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creator: §6@DarkalarDev",
+           "type": "data",
+           "uuid": "5c86298a-b8fd-4b72-9e91-ed725d41f51e", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

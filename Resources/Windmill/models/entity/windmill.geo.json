@@ -1,0 +1,81 @@
+// Windmill Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.windmill",
+				"texture_width": 256,
+				"texture_height": 256,
+				"visible_bounds_width": 22,
+				"visible_bounds_height": 21,
+				"visible_bounds_offset": [0, 0, 0]
+			},
+			"bones": [
+				{
+					"name": "windmill",
+					"pivot": [-1, 3, -14],
+					"rotation": [0, 0, 105],
+					"cubes": [
+						{"origin": [-5, -1, -22], "size": [9, 9, 30], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "blade",
+					"parent": "windmill",
+					"pivot": [0, -1, -17],
+					"cubes": [
+						{"origin": [-42, -162, -20], "size": [39, 5, 5], "uv": [0, 233]},
+						{"origin": [-42, -25, -20], "size": [39, 5, 5], "uv": [0, 232]},
+						{"origin": [-37, -157, -18], "size": [34, 132, 1], "uv": [184, 0]},
+						{"origin": [-54, -170, -20], "size": [55, 5, 5], "pivot": [1, -166, -16], "rotation": [0, 0, 90], "uv": [0, 0]},
+						{"origin": [-54, -115, -20], "size": [55, 5, 5], "pivot": [1, -111, -16], "rotation": [0, 0, 90], "uv": [0, 0]},
+						{"origin": [-54, -60, -20], "size": [55, 5, 5], "pivot": [1, -56, -16], "rotation": [0, 0, 90], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "blade2",
+					"parent": "windmill",
+					"pivot": [0, 3, -17],
+					"rotation": [0, 0, 90],
+					"cubes": [
+						{"origin": [-42, -158, -20], "size": [39, 5, 5], "uv": [0, 232]},
+						{"origin": [-42, -21, -20], "size": [39, 5, 5], "uv": [0, 232]},
+						{"origin": [-37, -153, -18], "size": [34, 132, 1], "uv": [186, 0]},
+						{"origin": [-54, -166, -20], "size": [55, 5, 5], "pivot": [1, -162, -16], "rotation": [0, 0, 90], "uv": [0, 0]},
+						{"origin": [-54, -111, -20], "size": [55, 5, 5], "pivot": [1, -107, -16], "rotation": [0, 0, 90], "uv": [0, 0]},
+						{"origin": [-54, -56, -20], "size": [55, 5, 5], "pivot": [1, -52, -16], "rotation": [0, 0, 90], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "blade3",
+					"parent": "windmill",
+					"pivot": [-1, 3, -17],
+					"rotation": [0, 0, -180],
+					"cubes": [
+						{"origin": [-43, -158, -20], "size": [39, 5, 5], "uv": [0, 233]},
+						{"origin": [-43, -21, -20], "size": [39, 5, 5], "uv": [0, 233]},
+						{"origin": [-38, -153, -18], "size": [34, 132, 1], "uv": [186, 0]},
+						{"origin": [-55, -166, -20], "size": [55, 5, 5], "pivot": [0, -162, -16], "rotation": [0, 0, 90], "uv": [0, 0]},
+						{"origin": [-55, -111, -20], "size": [55, 5, 5], "pivot": [0, -107, -16], "rotation": [0, 0, 90], "uv": [0, 0]},
+						{"origin": [-55, -56, -20], "size": [55, 5, 5], "pivot": [0, -52, -16], "rotation": [0, 0, 90], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "blade4",
+					"parent": "windmill",
+					"pivot": [-1, 4, -17],
+					"rotation": [0, 0, -90],
+					"cubes": [
+						{"origin": [-43, -157, -20], "size": [39, 5, 5], "uv": [0, 232]},
+						{"origin": [-43, -20, -20], "size": [39, 5, 5], "uv": [0, 232]},
+						{"origin": [-38, -152, -18], "size": [34, 132, 1], "uv": [185, 0]},
+						{"origin": [-55, -165, -20], "size": [55, 5, 5], "pivot": [0, -161, -16], "rotation": [0, 0, 90], "uv": [0, 0]},
+						{"origin": [-55, -110, -20], "size": [55, 5, 5], "pivot": [0, -106, -16], "rotation": [0, 0, 90], "uv": [0, 0]},
+						{"origin": [-55, -55, -20], "size": [55, 5, 5], "pivot": [0, -51, -16], "rotation": [0, 0, 90], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

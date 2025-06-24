@@ -1,0 +1,24 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "leatherhealing:dryer_acacia",
+			"materials": {
+				"default": "skeleton"
+			},
+			"textures": {
+				"default": "textures/entity/dryer_acacia"
+			},
+			"geometry": {
+				"default": "geometry.dryer"
+			},
+			"render_controllers": [
+				"controller.render.dryer"
+			],
+			"spawn_egg": {
+				"texture": "dryer_acacia",
+				"texture_index": 1
+			}
+		}
+	}
+}

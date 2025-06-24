@@ -1,0 +1,25 @@
+{
+	"format_version": 1.1,
+	"minecraft:item": {
+		"description": {
+			"identifier": "zerozone:can_of_soda_10"
+		},
+		"components": {
+			"minecraft:use_duration": 32,
+			"minecraft:food": {
+				"nutrition": 4,
+				"saturation_modifier": "low",
+				"effects": [
+					{
+						"name": "speed",
+						"duration": 6
+					},
+					{
+						"name": "poison",
+						"duration": 3
+					}
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lostweapons:pashupatastra",
+      "category": "Equipment"
+    },
+
+    "components": {
+      "minecraft:icon": "pashupatastra",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

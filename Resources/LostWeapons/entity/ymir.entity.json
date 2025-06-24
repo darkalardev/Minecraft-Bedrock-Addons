@@ -1,0 +1,33 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "lostweapons:ymir",
+      "materials": { "default": "bee" },
+      "textures": {
+        "default": "textures/entity/ymir"
+      },
+      "geometry": {
+        "default": "geometry.ymir"
+      },
+      "scripts": {
+				"animate": ["walk_controller", "attack_controller"]
+			},
+      "animations": {
+				"walk_controller": "controller.animation.ymir.walk",
+				"attack_controller": "controller.animation.ymir.attack",
+				"attack": "animation.ymir.attack",
+				"idle": "animation.ymir.idle",
+				"move": "animation.ymir.move"
+			},
+      "render_controllers": [ "controller.render.lostweapons" ],
+      "spawn_egg": {
+				"base_color": "#559BCB",
+				"overlay_color": "#194395"
+			}
+
+      
+    }
+  }
+}
+

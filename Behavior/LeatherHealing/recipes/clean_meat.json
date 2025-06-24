@@ -1,0 +1,27 @@
+// Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "leatherhealing:clean_meat"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:rotten_flesh"
+      }
+    },
+    "result": [
+      
+        { "item": "leatherhealing:clean_meat"}
+      
+    ]
+      
+    
+  }
+}

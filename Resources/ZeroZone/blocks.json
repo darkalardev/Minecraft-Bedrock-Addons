@@ -1,0 +1,19 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"radioactive_barrel": {
+		"textures": "radioactive_barrel",
+		"sound": "block.barrel.close"
+	},
+    "radioactive_barrel2": {
+		"textures": "radioactive_barrel2",
+		"sound": "block.barrel.close"
+	},
+    "radioactive_barrel3": {
+		"textures": "radioactive_barrel3",
+		"sound": "block.barrel.close"
+	}
+}

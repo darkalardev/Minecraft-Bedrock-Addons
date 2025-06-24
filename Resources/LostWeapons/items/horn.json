@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lostweapons:horn",
+      "category": "Equipment"
+    },
+
+    "components": {
+      "minecraft:icon": "horn",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

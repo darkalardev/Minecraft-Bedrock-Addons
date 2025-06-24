@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "§4Creator: §6@DarkalarDev",
+       "name": "Otaku Creeper §4by Darkalar",
+       "uuid": "f312f4fe-48ac-469e-a56d-93262842d01b", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creator: §6@DarkalarDev",
+           "type": "resources",
+           "uuid": "97b75861-fe47-45be-aeed-65d51e8ff54c", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

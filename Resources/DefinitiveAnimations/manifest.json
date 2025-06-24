@@ -1,0 +1,22 @@
+ {
+   "format_version": 2,
+   "header": {
+       "description": "§4Creators: §6@DarkalarDev §2@SovietLian",
+       "name": "Definitive Animations §4by Darkalar",
+       "uuid": "6513b464-ad53-44e8-9cd2-a8d2c03541a6", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creators: §6@DarkalarDev §2@SovietLian",
+           "type": "resources",
+           "uuid": "e9374903-4850-4e34-9d2a-8eecbb21bdbb", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

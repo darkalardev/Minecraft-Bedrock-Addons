@@ -1,0 +1,36 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "lostweapons:frost",
+			"materials": {
+				"default": "entity_alphatest",
+				"enchanted": "entity_alphatest_glint"
+			},
+			"textures": {
+				"default": "textures/items/frost/Frost3D",
+				"enchanted": "textures/misc/enchanted_item_glint"
+			},
+			"geometry": {
+				"default": "geometry.player.frost"
+			},
+			"animations": {
+				"first_person": "animation.player.frost.first_person",
+				"3ra": "animation.player.frost"
+			},
+			"scripts": {
+				"animate": [
+					{
+						"first_person": "c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'frost'"
+					},
+					{
+						"3ra": "!c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'frost'"
+					}
+				]
+			},
+			"render_controllers": [
+				"controller.render.lostweapons_models"
+			]
+		}
+	}
+}

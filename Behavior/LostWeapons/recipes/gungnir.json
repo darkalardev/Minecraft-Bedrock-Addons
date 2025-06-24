@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "lostweapons:gungnir"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "HAH",
+      "HBH",
+      "HCH"
+    ],
+    "key": {
+      "H": {
+        "item": "lostweapons:god_soul"
+      },
+      "A": {
+        "item": "lostweapons:fragment_of_gungnir1"
+      },
+      "B": {
+        "item": "lostweapons:fragment_of_gungnir2"
+      },
+      "C": {
+        "item": "lostweapons:fragment_of_gungnir3"
+      }
+    },
+    "result": [
+      { "item": "lostweapons:gungnir" }
+    ]
+  }
+}

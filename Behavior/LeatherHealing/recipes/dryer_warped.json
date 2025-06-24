@@ -1,0 +1,31 @@
+// Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "leatherhealing:dryer_warped"
+    },
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:warped_planks"
+      },
+      "A": {
+        "item": "minecraft:leather"
+      }
+    },
+    "result": {
+      "item": "minecraft:spawn_egg",
+	    "data": "query.get_actor_info_id('leatherhealing:dryer_warped')"
+
+    }
+      
+  }
+  
+}

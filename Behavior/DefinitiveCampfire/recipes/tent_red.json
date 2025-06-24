@@ -1,0 +1,32 @@
+// Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+	  "description": {
+	  "identifier": "definitivecampfire:tent_red"
+	  },
+	  
+	  "tags": [ "crafting_table" ],
+	  "pattern": [
+		" # ",
+		"#A#",
+		"A A"
+	  ],
+	  "key": {
+		"#": {
+		  "item": "minecraft:wool",
+			  "data": 14
+		},
+		"A": {
+		  "item": "minecraft:stick"
+		}
+	  },
+	  "result": {
+		"item": "minecraft:spawn_egg",
+		  "data": "query.get_actor_info_id('definitivecampfire:tent_red')"
+  
+	  }
+		
+	}
+	
+  }

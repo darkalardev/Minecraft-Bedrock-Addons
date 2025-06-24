@@ -1,0 +1,11 @@
+{
+	"resource_pack_name": "Elves",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"elf_bread_food": {
+			"textures": [
+				"textures/items/elf_bread"
+			]
+		}
+	}
+}

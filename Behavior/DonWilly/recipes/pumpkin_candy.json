@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "donwilly:pumpkin_candy_loot"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A"
+    ],
+    "key": {
+      "A": {
+        "item": "donwilly:pumpkin_candy"
+      }
+    },
+    "result": [
+      { "item": "donwilly:pumpkin_lollipop",
+        "count": "3" }
+    ]
+  }
+}

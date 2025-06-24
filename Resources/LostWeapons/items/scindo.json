@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lostweapons:scindo",
+      "category": "Equipment"
+    },
+
+    "components": {
+      "minecraft:icon": "scindo",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

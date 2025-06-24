@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lostweapons:fragment_of_honjo_masamune1",
+      "category": "Nature"
+    },
+
+    "components": {
+      "minecraft:icon": "fragment_of_honjo_masamune1"
+    }
+  }
+}

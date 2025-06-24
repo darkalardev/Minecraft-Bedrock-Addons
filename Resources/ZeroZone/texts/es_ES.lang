@@ -1,0 +1,60 @@
+item.zerozone:can_of_soda_1.name=Lata de Soda §6Zero Zone
+item.zerozone:can_of_soda_2.name=Lata de Soda §6Zero Zone
+item.zerozone:can_of_soda_3.name=Lata de Soda §6Zero Zone
+item.zerozone:can_of_soda_4.name=Lata de Soda §6Zero Zone
+item.zerozone:can_of_soda_5.name=Lata de Soda §6Zero Zone
+item.zerozone:can_of_soda_6.name=Lata de Soda §6Zero Zone
+item.zerozone:can_of_soda_7.name=Lata de Soda §6Zero Zone
+item.zerozone:can_of_soda_8.name=Lata de Soda §6Zero Zone
+item.zerozone:can_of_soda_9.name=Lata de Soda §6Zero Zone
+item.zerozone:can_of_soda_10.name=Lata de Soda §6Zero Zone
+item.zerozone:can_of_soda_11.name=Lata de Soda §6Zero Zone
+item.zerozone:can_of_soda_12.name=Lata de Soda §6Zero Zone
+item.zerozone:can_of_soda_13.name=Lata de Soda §6Zero Zone
+item.zerozone:can_of_soda_14.name=Lata de Soda §6Zero Zone
+item.zerozone:can_of_soda_15.name=Lata de Soda §6Zero Zone
+item.zerozone:can_of_soda_16.name=Lata de Soda §6Zero Zone
+item.zerozone:can_of_soda_17.name=Lata de Soda §6Zero Zone
+item.zerozone:water_bottle.name=Botella de Agua §6Zero Zone
+item.zerozone:anti_radiation_pills.name=Pastillas Anti Radiactivas §6Zero Zone
+item.zerozone:healing_pills.name=Pastillas de Salud §6Zero Zone
+item.zerozone:purifying_pills.name=Pastillas Purificadoras §6Zero Zone
+item.zerozone:botiquin.name=Botiquin §6Zero Zone
+item.zerozone:radiation_syringe.name=Jeringa Anti Radiactiva §6Zero Zone
+item.zerozone:health_syringe.name=Jeringa de Vida §6Zero Zone
+item.zerozone:adrenaline_syringe.name=Jeringa de Adrenalina §6Zero Zone
+
+item.spawn_egg.entity.zerozone:zombie.name=Zombie §6Zero Zone
+entity.zerozone:zombie.name=Zombie §6Zero Zone
+
+item.spawn_egg.entity.zerozone:infected_wolf.name=Lobo Infectado §6Zero Zone
+entity.zerozone:infected_wolf.name=Lobo Infectado §6Zero Zone
+
+item.spawn_egg.entity.zerozone:zombie2.name=Zombie §6Zero Zone
+entity.zerozone:zombie2.name=Zombie §6Zero Zone
+
+item.spawn_egg.entity.zerozone:zombie3.name=Zombie §6Zero Zone
+entity.zerozone:zombie3.name=Zombie §6Zero Zone
+
+item.spawn_egg.entity.zerozone:zombie4.name=Zombie §6Zero Zone
+entity.zerozone:zombie4.name=Zombie §6Zero Zone
+
+item.spawn_egg.entity.zerozone:zombie5.name=Zombie §6Zero Zone
+entity.zerozone:zombie5.name=Zombie §6Zero Zone
+
+item.spawn_egg.entity.zerozone:zombie6.name=Zombie §6Zero Zone
+entity.zerozone:zombie6.name=Zombie §6Zero Zone
+
+
+tile.zerozone:radioactive_barrel.name=Barril Radioactivo §6Zero Zone
+tile.zerozone:radioactive_barrel2.name=Barril Radioactivo §6Zero Zone
+tile.zerozone:radioactive_barrel3.name=Barril Radioactivo §6Zero Zone
+
+item.spawn_egg.entity.zerozone:bigzombie.name=Gran Zombie §6Zero Zone
+entity.zerozone:bigzombie.name=Gran Zombie §6Zero Zone
+
+item.spawn_egg.entity.zerozone:shortzombie2.name=Zombie Chico 2 §6Zero Zone
+entity.zerozone:shortzombie2.name=Zombie Chico 2 §6Zero Zone
+
+item.spawn_egg.entity.zerozone:shortzombie.name=Zombie Chico §6Zero Zone
+entity.zerozone:shortzombie.name=Zombie Chico §6Zero Zone

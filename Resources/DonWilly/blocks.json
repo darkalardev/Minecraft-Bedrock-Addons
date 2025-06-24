@@ -1,0 +1,52 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"donwilly:candy": {
+		"textures": "candy",
+		"sound": "fungus"
+	  },
+	  "donwilly:gum_block": {
+		"textures": "gum_block",
+		"sound": "fungus"
+	  },
+	  "donwilly:apple_brick": {
+		  "textures": "apple_brick",
+		  "sound": "fungus"
+		},
+		"donwilly:apple_candy": {
+			"textures": "apple_candy",
+			"sound": "fungus"
+		  },
+		  "donwilly:chocolate_brick": {
+			  "textures": "chocolate_brick",
+			  "sound": "fungus"
+			},
+			"donwilly:pumpkin_brick": {
+				"textures": "pumpkin_brick",
+				"sound": "fungus"
+			  },
+			  "donwilly:pumpkin_candy": {
+				  "textures": "pumpkin_candy",
+				  "sound": "fungus"
+				},
+				"donwilly:strawberry_brick": {
+					"textures": "strawberry_brick",
+					"sound": "fungus"
+				  },
+				  "donwilly:strawberry_candy": {
+					  "textures": "strawberry_candy",
+					  "sound": "fungus"
+					},"donwilly:chocolate_block": {
+					  "textures": "chocolate_block",
+					  "sound": "fungus"
+					},"donwilly:whitechocolate_block": {
+						"textures": "whitechocolate_block",
+						"sound": "fungus"
+					  },"donwilly:whitechocolate_brick": {
+						"textures": "whitechocolate_brick",
+						"sound": "fungus"
+					  }
+}

@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "§4Creator: §6@DarkalarDev",
+       "name": "Coooomo Estan §4by Darkalar",
+       "uuid": "9a616efa-0b12-4ba9-bf76-5f027ac34533", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creator: §6@DarkalarDev",
+           "type": "resources",
+           "uuid": "336bd628-e954-4382-af7e-c41609edf330", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

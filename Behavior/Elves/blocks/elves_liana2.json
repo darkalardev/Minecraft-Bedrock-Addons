@@ -1,0 +1,28 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+	  "description": {
+		"identifier": "elves:elves_liana2"
+	  },
+	  "components": {
+		"minecraft:creative_category": {
+			"category": "Construction"
+		},
+		"minecraft:destroy_time": 0.2,
+		"minecraft:block_light_emission": 0,
+		   "minecraft:material_instances": {
+			  "*": {
+				 "texture": "elves_liana2",
+				 "render_method": "alpha_test"
+			  }
+		   },
+		   "minecraft:geometry": "geometry.elves_cesped2",
+		   "minecraft:block_light_absorption": 0,
+		  "minecraft:pick_collision": {
+			"origin":  [0, 0.0, 0],
+			"size":   [16.0, 16.0, 16.0]
+		  },
+		"minecraft:entity_collision":false
+	  }
+	}
+  }

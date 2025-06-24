@@ -1,0 +1,23 @@
+// Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "definitivecampfire:log_oak",
+      "materials": { "default": "spider" },
+      "textures": {
+        "default": "textures/entity/log_oak_tex"
+      },
+      "geometry": {
+        "default": "geometry.log_oak"
+      },
+      "render_controllers": [
+				"controller.render.campfire"
+			],
+      "spawn_egg": {
+        "texture": "log_oak",
+        "texture_index": 0
+      }
+    }
+  }
+}

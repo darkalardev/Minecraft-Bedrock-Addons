@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "§4Creator: §6@DarkalarDev",
+       "name": "Hee Hee §4by Darkalar",
+       "uuid": "4855b8fa-5feb-4723-8ae7-8a2b7c083d46", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creator: §6@DarkalarDev",
+           "type": "resources",
+           "uuid": "997d7548-88e6-402c-88f6-fd0119de18cb", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

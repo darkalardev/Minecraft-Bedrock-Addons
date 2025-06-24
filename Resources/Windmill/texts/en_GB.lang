@@ -1,0 +1,385 @@
+tile.windmill:windmill_block.name=Windmill §6Block §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_oak_on.name=Windmill 4 Oak §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_oak_off.name=Windmill 4 Oak §cOff §6Windmill
+
+entity.windmill:windmill_acacia_on.name=Windmill 4 Acacia §aOn §6Windmill
+entity.windmill:windmill_acacia_off.name=Windmill 4 Acacia §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_acacia_on.name=Windmill 4 Acacia §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_acacia_off.name=Windmill 4 Acacia §cOff §6Windmill
+
+entity.windmill:windmill_oak_on.name=Windmill 4 Oak §aOn §6Windmill
+entity.windmill:windmill_oak_off.name=Windmill 4 Oak §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_big_oak_on.name=Windmill 4 Big Oak §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_big_oak_off.name=Windmill 4 Big Oak §cOff §6Windmill
+
+entity.windmill:windmill_big_oak_on.name=Windmill 4 Big Oak §aOn §6Windmill
+entity.windmill:windmill_big_oak_off.name=Windmill 4 Big Oak §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_birch_on.name=Windmill 4 Birch §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_birch_off.name=Windmill 4 Birch §cOff §6Windmill
+
+entity.windmill:windmill_birch_on.name=Windmill 4 Birch §aOn §6Windmill
+entity.windmill:windmill_birch_off.name=Windmill 4 Birch §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_crimson_on.name=Windmill 4 Crimson §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_crimson_off.name=Windmill 4 Crimson §cOff §6Windmill
+
+entity.windmill:windmill_crimson_on.name=Windmill 4 Crimson §aOn §6Windmill
+entity.windmill:windmill_crimson_off.name=Windmill 4 Crimson §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_jungle_on.name=Windmill 4 Jungle §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_jungle_off.name=Windmill 4 Jungle §cOff §6Windmill
+
+entity.windmill:windmill_jungle_on.name=Windmill 4 Jungle §aOn §6Windmill
+entity.windmill:windmill_jungle_off.name=Windmill 4 Jungle §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_spruce_on.name=Windmill 4 Spruce §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_spruce_off.name=Windmill 4 Spruce §cOff §6Windmill
+
+entity.windmill:windmill_spruce_on.name=Windmill 4 Spruce §aOn §6Windmill
+entity.windmill:windmill_spruce_off.name=Windmill 4 Spruce §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_warped_on.name=Windmill 4 Warped §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_warped_off.name=Windmill 4 Warped §cOff §6Windmill
+
+entity.windmill:windmill_warped_on.name=Windmill 4 Warped §aOn §6Windmill
+entity.windmill:windmill_warped_off.name=Windmill 4 Warped §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_black_on.name=Windmill Black §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_black_off.name=Windmill Black §cOff §6Windmill
+
+entity.windmill:windmill_black_on.name=Windmill Black §aOn §6Windmill
+entity.windmill:windmill_black_off.name=Windmill Black §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_blue_on.name=Windmill Blue §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_blue_off.name=Windmill Blue §cOff §6Windmill
+
+entity.windmill:windmill_blue_on.name=Windmill Blue §aOn §6Windmill
+entity.windmill:windmill_blue_off.name=Windmill Blue §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_brown_on.name=Windmill Brown §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_brown_off.name=Windmill Brown §cOff §6Windmill
+
+entity.windmill:windmill_brown_on.name=Windmill Brown §aOn §6Windmill
+entity.windmill:windmill_brown_off.name=Windmill Brown §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_cyan_on.name=Windmill Cyan §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_cyan_off.name=Windmill Cyan §cOff §6Windmill
+
+entity.windmill:windmill_cyan_on.name=Windmill Cyan §aOn §6Windmill
+entity.windmill:windmill_cyan_off.name=Windmill Cyan §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_gray_on.name=Windmill Gray §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_gray_off.name=Windmill Gray §cOff §6Windmill
+
+entity.windmill:windmill_gray_on.name=Windmill Gray §aOn §6Windmill
+entity.windmill:windmill_gray_off.name=Windmill Gray §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_green_on.name=Windmill Green §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_green_off.name=Windmill Green §cOff §6Windmill
+
+entity.windmill:windmill_green_on.name=Windmill Green §aOn §6Windmill
+entity.windmill:windmill_green_off.name=Windmill Green §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_light_blue_on.name=Windmill Light Blue §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_light_blue_off.name=Windmill Light Blue §cOff §6Windmill
+
+entity.windmill:windmill_light_blue_on.name=Windmill Light Blue §aOn §6Windmill
+entity.windmill:windmill_light_blue_off.name=Windmill Light Blue §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_lime_on.name=Windmill Lime §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_lime_off.name=Windmill Lime §cOff §6Windmill
+
+entity.windmill:windmill_lime_on.name=Windmill Lime §aOn §6Windmill
+entity.windmill:windmill_lime_off.name=Windmill Lime §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_magenta_on.name=Windmill Magenta §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_magenta_off.name=Windmill Magenta §cOff §6Windmill
+
+entity.windmill:windmill_magenta_on.name=Windmill Magenta §aOn §6Windmill
+entity.windmill:windmill_magenta_off.name=Windmill Magenta §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_orange_on.name=Windmill Orange §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_orange_off.name=Windmill Orange §cOff §6Windmill
+
+entity.windmill:windmill_orange_on.name=Windmill Orange §aOn §6Windmill
+entity.windmill:windmill_orange_off.name=Windmill Orange §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_pink_on.name=Windmill Pink §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_pink_off.name=Windmill Pink §cOff §6Windmill
+
+entity.windmill:windmill_pink_on.name=Windmill Pink §aOn §6Windmill
+entity.windmill:windmill_pink_off.name=Windmill Pink §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_purple_on.name=Windmill Purple §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_purple_off.name=Windmill Purple §cOff §6Windmill
+
+entity.windmill:windmill_purple_on.name=Windmill Purple §aOn §6Windmill
+entity.windmill:windmill_purple_off.name=Windmill Purple §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_red_on.name=Windmill Red §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_red_off.name=Windmill Red §cOff §6Windmill
+
+entity.windmill:windmill_red_on.name=Windmill Red §aOn §6Windmill
+entity.windmill:windmill_red_off.name=Windmill Red §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_silver_on.name=Windmill Silver §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_silver_off.name=Windmill Silver §cOff §6Windmill
+
+entity.windmill:windmill_silver_on.name=Windmill Silver §aOn §6Windmill
+entity.windmill:windmill_silver_off.name=Windmill Silver §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_white_on.name=Windmill White §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_white_off.name=Windmill White §cOff §6Windmill
+
+entity.windmill:windmill_white_on.name=Windmill White §aOn §6Windmill
+entity.windmill:windmill_white_off.name=Windmill White §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_yellow_on.name=Windmill Yellow §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_yellow_off.name=Windmill Yellow §cOff §6Windmill
+
+entity.windmill:windmill_yellow_on.name=Windmill Yellow §aOn §6Windmill
+entity.windmill:windmill_yellow_off.name=Windmill Yellow §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_2_black_on.name=Windmill 2 Black §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_2_black_off.name=Windmill 2 Black §cOff §6Windmill
+
+entity.windmill:windmill_2_black_on.name=Windmill 2 Black §aOn §6Windmill
+entity.windmill:windmill_2_black_off.name=Windmill 2 Black §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_2_blue_on.name=Windmill 2 Blue §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_2_blue_off.name=Windmill 2 Blue §cOff §6Windmill
+
+entity.windmill:windmill_2_blue_on.name=Windmill 2 Blue §aOn §6Windmill
+entity.windmill:windmill_2_blue_off.name=Windmill 2 Blue §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_2_brown_on.name=Windmill 2 Brown §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_2_brown_off.name=Windmill 2 Brown §cOff §6Windmill
+
+entity.windmill:windmill_2_brown_on.name=Windmill 2 Brown §aOn §6Windmill
+entity.windmill:windmill_2_brown_off.name=Windmill 2 Brown §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_2_cyan_on.name=Windmill 2 Cyan §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_2_cyan_off.name=Windmill 2 Cyan §cOff §6Windmill
+
+entity.windmill:windmill_2_cyan_on.name=Windmill 2 Cyan §aOn §6Windmill
+entity.windmill:windmill_2_cyan_off.name=Windmill 2 Cyan §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_2_gray_on.name=Windmill 2 Gray §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_2_gray_off.name=Windmill 2 Gray §cOff §6Windmill
+
+entity.windmill:windmill_2_gray_on.name=Windmill 2 Gray §aOn §6Windmill
+entity.windmill:windmill_2_gray_off.name=Windmill 2 Gray §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_2_green_on.name=Windmill 2 Green §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_2_green_off.name=Windmill 2 Green §cOff §6Windmill
+
+entity.windmill:windmill_2_green_on.name=Windmill 2 Green §aOn §6Windmill
+entity.windmill:windmill_2_green_off.name=Windmill 2 Green §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_2_light_blue_on.name=Windmill 2 Light Blue §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_2_light_blue_off.name=Windmill 2 Light Blue §cOff §6Windmill
+
+entity.windmill:windmill_2_light_blue_on.name=Windmill 2 Light Blue §aOn §6Windmill
+entity.windmill:windmill_2_light_blue_off.name=Windmill 2 Light Blue §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_2_lime_on.name=Windmill 2 Lime §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_2_lime_off.name=Windmill 2 Lime §cOff §6Windmill
+
+entity.windmill:windmill_2_lime_on.name=Windmill 2 Lime §aOn §6Windmill
+entity.windmill:windmill_2_lime_off.name=Windmill 2 Lime §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_2_magenta_on.name=Windmill 2 Magenta §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_2_magenta_off.name=Windmill 2 Magenta §cOff §6Windmill
+
+entity.windmill:windmill_2_magenta_on.name=Windmill 2 Magenta §aOn §6Windmill
+entity.windmill:windmill_2_magenta_off.name=Windmill 2 Magenta §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_2_orange_on.name=Windmill 2 Orange §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_2_orange_off.name=Windmill 2 Orange §cOff §6Windmill
+
+entity.windmill:windmill_2_orange_on.name=Windmill 2 Orange §aOn §6Windmill
+entity.windmill:windmill_2_orange_off.name=Windmill 2 Orange §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_2_pink_on.name=Windmill 2 Pink §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_2_pink_off.name=Windmill 2 Pink §cOff §6Windmill
+
+entity.windmill:windmill_2_pink_on.name=Windmill 2 Pink §aOn §6Windmill
+entity.windmill:windmill_2_pink_off.name=Windmill 2 Pink §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_2_purple_on.name=Windmill 2 Purple §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_2_purple_off.name=Windmill 2 Purple §cOff §6Windmill
+
+entity.windmill:windmill_2_purple_on.name=Windmill 2 Purple §aOn §6Windmill
+entity.windmill:windmill_2_purple_off.name=Windmill 2 Purple §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_2_red_on.name=Windmill 2 Red §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_2_red_off.name=Windmill 2 Red §cOff §6Windmill
+
+entity.windmill:windmill_2_red_on.name=Windmill 2 Red §aOn §6Windmill
+entity.windmill:windmill_2_red_off.name=Windmill 2 Red §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_2_silver_on.name=Windmill 2 Silver §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_2_silver_off.name=Windmill 2 Silver §cOff §6Windmill
+
+entity.windmill:windmill_2_silver_on.name=Windmill 2 Silver §aOn §6Windmill
+entity.windmill:windmill_2_silver_off.name=Windmill 2 Silver §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_2_white_on.name=Windmill 2 White §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_2_white_off.name=Windmill 2 White §cOff §6Windmill
+
+entity.windmill:windmill_2_white_on.name=Windmill 2 White §aOn §6Windmill
+entity.windmill:windmill_2_white_off.name=Windmill 2 White §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_2_yellow_on.name=Windmill 2 Yellow §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_2_yellow_off.name=Windmill 2 Yellow §cOff §6Windmill
+
+entity.windmill:windmill_2_yellow_on.name=Windmill 2 Yellow §aOn §6Windmill
+entity.windmill:windmill_2_yellow_off.name=Windmill 2 Yellow §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_3_black_on.name=Windmill 3 Black §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_3_black_off.name=Windmill 3 Black §cOff §6Windmill
+
+entity.windmill:windmill_3_black_on.name=Windmill 3 Black §aOn §6Windmill
+entity.windmill:windmill_3_black_off.name=Windmill 3 Black §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_3_blue_on.name=Windmill 3 Blue §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_3_blue_off.name=Windmill 3 Blue §cOff §6Windmill
+
+entity.windmill:windmill_3_blue_on.name=Windmill 3 Blue §aOn §6Windmill
+entity.windmill:windmill_3_blue_off.name=Windmill 3 Blue §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_3_brown_on.name=Windmill 3 Brown §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_3_brown_off.name=Windmill 3 Brown §cOff §6Windmill
+
+entity.windmill:windmill_3_brown_on.name=Windmill 3 Brown §aOn §6Windmill
+entity.windmill:windmill_3_brown_off.name=Windmill 3 Brown §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_3_cyan_on.name=Windmill 3 Cyan §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_3_cyan_off.name=Windmill 3 Cyan §cOff §6Windmill
+
+entity.windmill:windmill_3_cyan_on.name=Windmill 3 Cyan §aOn §6Windmill
+entity.windmill:windmill_3_cyan_off.name=Windmill 3 Cyan §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_3_gray_on.name=Windmill 3 Gray §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_3_gray_off.name=Windmill 3 Gray §cOff §6Windmill
+
+entity.windmill:windmill_3_gray_on.name=Windmill 3 Gray §aOn §6Windmill
+entity.windmill:windmill_3_gray_off.name=Windmill 3 Gray §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_3_green_on.name=Windmill 3 Green §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_3_green_off.name=Windmill 3 Green §cOff §6Windmill
+
+entity.windmill:windmill_3_green_on.name=Windmill 3 Green §aOn §6Windmill
+entity.windmill:windmill_3_green_off.name=Windmill 3 Green §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_3_light_blue_on.name=Windmill 3 Light Blue §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_3_light_blue_off.name=Windmill 3 Light Blue §cOff §6Windmill
+
+entity.windmill:windmill_3_light_blue_on.name=Windmill 3 Light Blue §aOn §6Windmill
+entity.windmill:windmill_3_light_blue_off.name=Windmill 3 Light Blue §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_3_lime_on.name=Windmill 3 Lime §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_3_lime_off.name=Windmill 3 Lime §cOff §6Windmill
+
+entity.windmill:windmill_3_lime_on.name=Windmill 3 Lime §aOn §6Windmill
+entity.windmill:windmill_3_lime_off.name=Windmill 3 Lime §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_3_magenta_on.name=Windmill 3 Magenta §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_3_magenta_off.name=Windmill 3 Magenta §cOff §6Windmill
+
+entity.windmill:windmill_3_magenta_on.name=Windmill 3 Magenta §aOn §6Windmill
+entity.windmill:windmill_3_magenta_off.name=Windmill 3 Magenta §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_3_orange_on.name=Windmill 3 Orange §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_3_orange_off.name=Windmill 3 Orange §cOff §6Windmill
+
+entity.windmill:windmill_3_orange_on.name=Windmill 3 Orange §aOn §6Windmill
+entity.windmill:windmill_3_orange_off.name=Windmill 3 Orange §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_3_pink_on.name=Windmill 3 Pink §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_3_pink_off.name=Windmill 3 Pink §cOff §6Windmill
+
+entity.windmill:windmill_3_pink_on.name=Windmill 3 Pink §aOn §6Windmill
+entity.windmill:windmill_3_pink_off.name=Windmill 3 Pink §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_3_purple_on.name=Windmill 3 Purple §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_3_purple_off.name=Windmill 3 Purple §cOff §6Windmill
+
+entity.windmill:windmill_3_purple_on.name=Windmill 3 Purple §aOn §6Windmill
+entity.windmill:windmill_3_purple_off.name=Windmill 3 Purple §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_3_red_on.name=Windmill 3 Red §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_3_red_off.name=Windmill 3 Red §cOff §6Windmill
+
+entity.windmill:windmill_3_red_on.name=Windmill 3 Red §aOn §6Windmill
+entity.windmill:windmill_3_red_off.name=Windmill 3 Red §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_3_silver_on.name=Windmill 3 Silver §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_3_silver_off.name=Windmill 3 Silver §cOff §6Windmill
+
+entity.windmill:windmill_3_silver_on.name=Windmill 3 Silver §aOn §6Windmill
+entity.windmill:windmill_3_silver_off.name=Windmill 3 Silver §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_3_white_on.name=Windmill 3 White §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_3_white_off.name=Windmill 3 White §cOff §6Windmill
+
+entity.windmill:windmill_3_white_on.name=Windmill 3 White §aOn §6Windmill
+entity.windmill:windmill_3_white_off.name=Windmill 3 White §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_3_yellow_on.name=Windmill 3 Yellow §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_3_yellow_off.name=Windmill 3 Yellow §cOff §6Windmill
+
+entity.windmill:windmill_3_yellow_on.name=Windmill 3 Yellow §aOn §6Windmill
+entity.windmill:windmill_3_yellow_off.name=Windmill 3 Yellow §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_small_oak_on.name=Windmill Small 4 Oak §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_small_oak_off.name=Windmill Small 4 Oak §cOff §6Windmill
+
+entity.windmill:windmill_small_acacia_on.name=Windmill Small 4 Acacia §aOn §6Windmill
+entity.windmill:windmill_small_acacia_off.name=Windmill Small 4 Acacia §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_small_acacia_on.name=Windmill Small 4 Acacia §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_small_acacia_off.name=Windmill Small 4 Acacia §cOff §6Windmill
+
+entity.windmill:windmill_small_oak_on.name=Windmill Small 4 Oak §aOn §6Windmill
+entity.windmill:windmill_small_oak_off.name=Windmill Small 4 Oak §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_small_big_oak_on.name=Windmill Small 4 Big Oak §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_small_big_oak_off.name=Windmill Small 4 Big Oak §cOff §6Windmill
+
+entity.windmill:windmill_small_big_oak_on.name=Windmill Small 4 Big Oak §aOn §6Windmill
+entity.windmill:windmill_small_big_oak_off.name=Windmill Small 4 Big Oak §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_small_birch_on.name=Windmill Small 4 Birch §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_small_birch_off.name=Windmill Small 4 Birch §cOff §6Windmill
+
+entity.windmill:windmill_small_birch_on.name=Windmill Small 4 Birch §aOn §6Windmill
+entity.windmill:windmill_small_birch_off.name=Windmill Small 4 Birch §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_small_crimson_on.name=Windmill Small 4 Crimson §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_small_crimson_off.name=Windmill Small 4 Crimson §cOff §6Windmill
+
+entity.windmill:windmill_small_crimson_on.name=Windmill Small 4 Crimson §aOn §6Windmill
+entity.windmill:windmill_small_crimson_off.name=Windmill Small 4 Crimson §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_small_jungle_on.name=Windmill Small 4 Jungle §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_small_jungle_off.name=Windmill Small 4 Jungle §cOff §6Windmill
+
+entity.windmill:windmill_small_jungle_on.name=Windmill Small 4 Jungle §aOn §6Windmill
+entity.windmill:windmill_small_jungle_off.name=Windmill Small 4 Jungle §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_small_spruce_on.name=Windmill Small 4 Spruce §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_small_spruce_off.name=Windmill  Small4 Spruce §cOff §6Windmill
+
+entity.windmill:windmill_small_spruce_on.name=Windmill Small 4 Spruce §aOn §6Windmill
+entity.windmill:windmill_small_spruce_off.name=Windmill Small 4 Spruce §cOff §6Windmill
+
+item.spawn_egg.entity.windmill:windmill_small_warped_on.name=Windmill Small 4 Warped §aOn §6Windmill
+item.spawn_egg.entity.windmill:windmill_small_warped_off.name=Windmill Small 4 Warped §cOff §6Windmill
+
+entity.windmill:windmill_small_warped_on.name=Windmill Small 4 Warped §aOn §6Windmill
+entity.windmill:windmill_small_warped_off.name=Windmill Small 4 Warped §cOff §6Windmill

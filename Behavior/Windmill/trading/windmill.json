@@ -1,0 +1,36 @@
+{
+    "tiers": [
+        {
+            "trades": [
+                {
+                    "wants": [
+                        {
+                            "item": "minecraft:wheat",
+                            "quantity": 3
+                        }
+                    ],
+                    "gives": [
+                        {
+                            "item": "minecraft:bread",
+                            "quantity": 6
+                        }
+                    ]
+                },
+                {
+                    "wants": [
+                        {
+                            "item": "minecraft:wheat",
+                            "quantity": 6
+                        }
+                    ],
+                    "gives": [
+                        {
+                            "item": "definitivefoods:flour",
+                            "quantity": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

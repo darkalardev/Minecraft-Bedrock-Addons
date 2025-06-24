@@ -1,0 +1,72 @@
+{
+	"format_version": "1.13.0",
+	"minecraft:biome": {
+		"description": {
+			"identifier": "candyland"
+		},
+		"components": {
+			"minecraft:climate": {
+				"downfall": 1,
+				"snow_accumulation": [
+					0,
+					0.125
+				],
+				"temperature": 0.4
+			},
+			"minecraft:multinoise_generation_rules": {
+				"target_temperature": 0,
+				"target_humidity": 0.5,
+				"target_altitude": 0,
+				"target_weirdness": 0,
+				"weight": 0.375
+			},
+			"minecraft:overworld_height": {
+				"noise_type": "default"
+			},
+			"minecraft:surface_parameters": {
+				"sea_floor_depth": 7,
+				"sea_floor_material": "donwilly:pumpkin_candy",
+				"foundation_material": "donwilly:pumpkin_candy ",
+				"mid_material": "donwilly:pumpkin_candy",
+				"top_material": "donwilly:gum_block",
+				"sea_material": "minecraft:water"
+			},
+			"minecraft:overworld_generation_rules": {
+				"hills_transformation": [
+					"candyland_hills",
+					"chocolate_plains"
+				],
+				"mutate_transformation": [
+					"chocolate_plains",
+					"whitechocolate_plains"
+				],
+				"generate_for_climates": [
+					[
+						"cold",
+						1
+					]
+				]
+			},
+			"minecraft:surface_material_adjustments": {
+				"adjustments": [
+					{
+						"materials": {
+							"top_material": {
+								"name": "donwilly:gum_block"
+							}
+						},
+						"noise_frequency_scale": 0.0625,
+						"noise_range": [
+							0.4,
+							1
+						]
+					}
+				]
+			},
+			"animal": {},
+			"monster": {},
+			"overworld": {},
+			"candyland": {}
+		}
+	}
+  }

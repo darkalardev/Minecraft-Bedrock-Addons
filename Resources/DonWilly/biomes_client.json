@@ -1,0 +1,28 @@
+{
+   "biomes" : {
+      "candyland" : {
+         "fog_identifier" : "donwilly:fog_candyland",
+         "fog_ids_to_merge" : [ "donwilly:fog_candyland" ],
+         "inherit_from_prior_fog" : false,
+         "water_surface_color" : "#e87176"
+      },
+      "candyland_hills" : {
+         "fog_identifier" : "donwilly:fog_candyland_hills",
+         "fog_ids_to_merge" : [ "donwilly:fog_candyland_hills" ],
+         "inherit_from_prior_fog" : false,
+         "water_surface_color" : "#e87176"
+      }
+      ,"chocolate_plains" : {
+         "fog_identifier" : "donwilly:fog_chocolate_plains",
+         "fog_ids_to_merge" : [ "donwilly:fog_chocolate_plains" ],
+         "inherit_from_prior_fog" : false,
+         "water_surface_color" : "#503C27"
+      },
+      "whitechocolate_plains" : {
+         "fog_identifier" : "donwilly:fog_whitechocolate_plains",
+         "fog_ids_to_merge" : [ "donwilly:fog_whitechocolate_plains" ],
+         "inherit_from_prior_fog" : false,
+         "water_surface_color" : "#BDB2A5"
+      }
+   }
+}

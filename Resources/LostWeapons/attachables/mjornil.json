@@ -1,0 +1,36 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "lostweapons:mjornil",
+			"materials": {
+				"default": "entity_alphatest",
+				"enchanted": "entity_alphatest_glint"
+			},
+			"textures": {
+				"default": "textures/items/mjornil/Mjornir3D",
+				"enchanted": "textures/misc/enchanted_item_glint"
+			},
+			"geometry": {
+				"default": "geometry.player.mjornil"
+			},
+			"animations": {
+				"first_person": "animation.player.mjornil.first_person",
+				"3ra": "animation.player.mjornil"
+			},
+			"scripts": {
+				"animate": [
+					{
+						"first_person": "c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'mjornil'"
+					},
+					{
+						"3ra": "!c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'mjornil'"
+					}
+				]
+			},
+			"render_controllers": [
+				"controller.render.lostweapons_models"
+			]
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+    "format_version": "1.13.0",
+    "minecraft:structure_template_feature": {
+        "description": {
+            "identifier": "minecraft:lollipop_tree_3_mcstructure"
+        },
+        "structure_name": "mystructure:lollipop_tree_3",
+        "adjustment_radius": 8,
+		"facing_direction": "random",
+		"constraints": {
+			"grounded": {},
+			"block_intersection": {
+				"block_whitelist": [
+					"minecraft:air"
+				]
+			}
+		}
+	}
+}

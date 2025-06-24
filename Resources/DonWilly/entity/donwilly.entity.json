@@ -1,0 +1,38 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "donwilly:donwilly",
+      "materials": { "default": "entity" },
+      "textures": {
+        "default": "textures/entity/donwilly"
+      },
+      "geometry": {
+        "default": "geometry.wonka"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg",
+        "texture_index": 18
+      },
+      "scripts": {
+        "pre_animation": [
+          "variable.tcos_right_side = (Math.cos(query.modified_distance_moved * 38.17) * query.modified_move_speed / variable.gliding_speed_value) * 57.3;",
+          "variable.tcos_left_side = -variable.tcos_right_side;",
+          "variable.attack_head_rot =  Math.sin(variable.attack_time * 180.0) * -37.3;"
+        ]
+      },
+      "animations": {
+        "walk": "animation.wonka.walk",
+        "look_at_target": "animation.wonka.idle",
+        "attack": "animation.wonka.attack"
+      },
+      "animation_controllers": [
+        { "look_at_target": "controller.animation.wonka.look_at_target" },
+        { "walk": "controller.animation.wonka.walk" },
+        { "attack": "controller.animation.wonka.attack" }
+      ],
+      "render_controllers": [ "controller.render.donwilly" ]
+    }
+  }
+}
+

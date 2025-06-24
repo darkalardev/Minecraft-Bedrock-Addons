@@ -1,0 +1,29 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+	  "description": {
+		"identifier": "elves:elves_linterna"
+	  },
+	  "components": {
+		"minecraft:creative_category": {
+			"category": "Construction"
+		},
+		"minecraft:destroy_time": 0.5,
+		"minecraft:explosion_resistance": 2,
+  
+		"minecraft:block_light_emission": 1,
+		   "minecraft:material_instances": {
+			  "*": {
+				 "texture": "elves_linterna",
+				 "render_method": "alpha_test"
+			  }
+		   },
+		   "minecraft:geometry": "geometry.elves_linterna",
+		   "minecraft:block_light_absorption": 0,
+		  "minecraft:pick_collision": {
+			  "origin":  [-8.0, 0.0, -8.0],
+			  "size":   [10.0, 10.0, 10.0]
+		  }
+	  }
+	}
+  }

@@ -1,0 +1,53 @@
+{
+  "resource_pack_name": "BeSanta",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "bot_gift_1" : {
+      "textures" : "textures/blocks/bot_gift_1"
+   },
+   "left_gift_1" : {
+    "textures" : "textures/blocks/left_gift_1"
+    },
+    "top_gift_1" : {
+     "textures" : "textures/blocks/top_gift_1"
+     },
+     "bot_gift_2" : {
+        "textures" : "textures/blocks/bot_gift_2"
+     },
+     "left_gift_2" : {
+      "textures" : "textures/blocks/left_gift_2"
+      },
+      "top_gift_2" : {
+       "textures" : "textures/blocks/top_gift_2"
+       },
+       "bot_gift_3" : {
+        "textures" : "textures/blocks/bot_gift_3"
+     },
+     "left_gift_3" : {
+      "textures" : "textures/blocks/left_gift_3"
+      },
+      "top_gift_3" : {
+       "textures" : "textures/blocks/top_gift_3"
+       },
+       "bot_gift_4" : {
+        "textures" : "textures/blocks/bot_gift_4"
+     },
+     "left_gift_4" : {
+      "textures" : "textures/blocks/left_gift_4"
+      },
+      "top_gift_4" : {
+       "textures" : "textures/blocks/top_gift_4"
+       },
+       "top_candy_block" : {
+        "textures" : "textures/blocks/top_candy_block"
+        },
+        "Side_candy_block" : {
+         "textures" : "textures/blocks/Side_candy_block"
+         },
+          "tree_besanta" : {
+           "textures" : "textures/blocks/tree_besanta"
+           }
+  }
+}

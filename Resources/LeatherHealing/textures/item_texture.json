@@ -1,0 +1,64 @@
+// Add-On by Ragthor. Website: www.ragthor.xyz | Twitter: @RagthorDev
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "clean_meat": {
+			"textures": [
+				"textures/items/clean_meat"
+			]
+    }
+	,
+    "cooked_meat": {
+			"textures": [
+				"textures/items/cooked_meat"
+			]
+    }
+	,
+    "healthy_leather": {
+			"textures": [
+				"textures/items/healthy_leather"
+			]
+    },
+    "dryer_acacia": {
+			"textures": [
+				"textures/items/dryer_acacia"
+			]
+    },
+    "dryer_birch": {
+			"textures": [
+				"textures/items/dryer_birch"
+			]
+		},
+    "dryer_big_oak": {
+			"textures": [
+				"textures/items/dryer_big_oak"
+			]
+		},
+    "dryer_crimson": {
+			"textures": [
+				"textures/items/dryer_crimson"
+			]
+		},
+    "dryer_jungle": {
+			"textures": [
+				"textures/items/dryer_jungle"
+			]
+		},
+    "dryer_oak": {
+			"textures": [
+				"textures/items/dryer_oak"
+			]
+		},
+    "dryer_spruce": {
+			"textures": [
+				"textures/items/dryer_spruce"
+			]
+		},
+    "dryer_warped": {
+			"textures": [
+				"textures/items/dryer_warped"
+			]
+		}
+  }
+}

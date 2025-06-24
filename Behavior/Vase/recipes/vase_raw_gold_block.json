@@ -1,0 +1,26 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+	  "description": {
+	  "identifier": "vase:vase_raw_gold_block"
+	  },
+  
+	  
+	  "tags": [ "crafting_table" ],
+	  "pattern": [
+		"AB"
+	  ],
+	  "key": {
+		"A": {
+		  "item": "vase:vase"
+		},
+		"B": {
+		  "item": "minecraft:raw_gold_block"
+		}
+	  },
+	  "result": [
+		{ "item": "vase:vase_raw_gold_block" }
+	  ]
+	}
+  }
+  

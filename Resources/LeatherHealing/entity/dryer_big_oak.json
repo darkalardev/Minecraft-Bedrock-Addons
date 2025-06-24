@@ -1,0 +1,24 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "leatherhealing:dryer_big_oak",
+			"materials": {
+				"default": "skeleton"
+			},
+			"textures": {
+				"default": "textures/entity/dryer_big_oak"
+			},
+			"geometry": {
+				"default": "geometry.dryer"
+			},
+			"render_controllers": [
+				"controller.render.dryer"
+			],
+			"spawn_egg": {
+				"texture": "dryer_big_oak",
+				"texture_index": 1
+			}
+		}
+	}
+}

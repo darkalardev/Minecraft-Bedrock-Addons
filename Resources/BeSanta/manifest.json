@@ -1,0 +1,22 @@
+{
+   "format_version": 2,
+   "header": {
+       "description": "§4Creators: §6@DarkalarDev §2@SovietLian",
+       "name": "Be Santa §4by Darkalar",
+       "uuid": "c08c1a1f-a360-47f9-bda2-e1d1300b6d29", 
+       "version": [1, 0, 0],
+       "min_engine_version": [ 1, 16, 100 ]
+   },
+   "metadata" : {
+      "authors" : [ "Darkalar" ],
+      "url" : "https://youtube.com/Darkalar"
+   },
+   "modules": [
+       {
+           "description": "§4Creators: §6@DarkalarDev §2@SovietLian",
+           "type": "resources",
+           "uuid": "805956d9-9149-4ed6-975f-989b3ebb52d1", 
+           "version": [1, 0, 0]
+       }
+   ]
+}

@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "elves:blood_wood"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A"
+    ],
+    "key": {
+      "A": {
+        "item": "elves:blood_log"
+      }
+    },
+    "result": [
+      { "item": "elves:blood_wood", "count": "4" }
+    ]
+  }
+}

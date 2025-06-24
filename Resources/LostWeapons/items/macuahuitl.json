@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lostweapons:macuahuitl",
+      "category": "Equipment"
+    },
+
+    "components": {
+      "minecraft:icon": "macuahuitl",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}
