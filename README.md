@@ -10,6 +10,7 @@ A collection of Minecraft Bedrock addons I made, now free for you to use and mod
 ❤️​ All donations go directly toward the development of my own games and the creation of free addons for Godot. Your support helps me create more and better projects.<br>
   
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/darkalardev) 
+[![Cafecito](https://img.shields.io/badge/Cafecito-8FA2CC?style=for-the-badge&logoColor=white)](https://cafecito.app/darkalardev) 
 
 
 # 📄​ License
